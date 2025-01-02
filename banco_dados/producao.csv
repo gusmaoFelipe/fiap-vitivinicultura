@@ -1,0 +1,2755 @@
+cod_produto;produto;ano;litros
+vinho_de_mesa;VINHO DE MESA;1970;217208604
+vinho_mesa_tinto;TINTO;1970;174224052
+vinho_mesa_branco;BRANCO;1970;748400
+vinho_mesa_rosado;ROSADO;1970;42236152
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1970;23899346
+vinho_viniferas_tinto;TINTO;1970;7591557
+vinho_viniferas_branco;BRANCO;1970;15562889
+vinho_viniferas_rosado;ROSADO;1970;744900
+suco;SUCO;1970;1097771
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1970;1097771
+suco_concentrado;SUCO DE UVA CONCENTRADO;1970;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1970;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1970;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1970;0
+derivados;DERIVADOS;1970;14164329
+derivados_espumante;ESPUMANTE;1970;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1970;0
+derivados_base_espumante;BASE ESPUMANTE;1970;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1970;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1970;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1970;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1970;0
+derivados_polpa_de_uva;POLPA DE UVA;1970;0
+derivados_mosto_simples;MOSTO SIMPLES;1970;7170736
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1970;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1970;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1970;0
+derivados_mistelas;MISTELAS;1970;1072100
+derivados_nectar_de_uva;NÉCTAR DE UVA;1970;0
+derivados_licorosos;LICOROSOS;1970;282500
+derivados_compostos;COMPOSTOS;1970;0
+derivados_jeropiga;JEROPIGA;1970;0
+derivados_filtrado;FILTRADO;1970;0
+derivados_frisante;FRISANTE;1970;0
+derivados_vinho_leve;VINHO LEVE;1970;0
+derivados_vinho_licoroso;VINHO LICOROSO;1970;0
+derivados_brandy;BRANDY;1970;0
+derivados_destilado;DESTILADO;1970;830030
+derivados_bagaceira;BAGACEIRA;1970;961290
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1970;0
+derivados_vinagre;VINAGRE;1970;0
+derivados_borra_liquida;BORRA LÍQUIDA;1970;3847673
+derivados_borra_seca;BORRA SECA;1970;0
+derivados_vinho_composto;VINHO COMPOSTO;1970;0
+derivados_pisco;PISCO;1970;0
+derivados_vinho_organico;VINHO ORGÂNICO;1970;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1970;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1970;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1970;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1970;0
+derivados_outros_derivados;OUTROS DERIVADOS;1970;0
+vinho_de_mesa;VINHO DE MESA;1971;154264651
+vinho_mesa_tinto;TINTO;1971;121133369
+vinho_mesa_branco;BRANCO;1971;1160500
+vinho_mesa_rosado;ROSADO;1971;31970782
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1971;23586062
+vinho_viniferas_tinto;TINTO;1971;7265666
+vinho_viniferas_branco;BRANCO;1971;15655709
+vinho_viniferas_rosado;ROSADO;1971;664687
+suco;SUCO;1971;2296654
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1971;2296654
+suco_concentrado;SUCO DE UVA CONCENTRADO;1971;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1971;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1971;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1971;0
+derivados;DERIVADOS;1971;13280518
+derivados_espumante;ESPUMANTE;1971;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1971;0
+derivados_base_espumante;BASE ESPUMANTE;1971;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1971;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1971;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1971;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1971;0
+derivados_polpa_de_uva;POLPA DE UVA;1971;0
+derivados_mosto_simples;MOSTO SIMPLES;1971;7646774
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1971;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1971;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1971;0
+derivados_mistelas;MISTELAS;1971;818400
+derivados_nectar_de_uva;NÉCTAR DE UVA;1971;0
+derivados_licorosos;LICOROSOS;1971;270000
+derivados_compostos;COMPOSTOS;1971;45000
+derivados_jeropiga;JEROPIGA;1971;0
+derivados_filtrado;FILTRADO;1971;0
+derivados_frisante;FRISANTE;1971;0
+derivados_vinho_leve;VINHO LEVE;1971;0
+derivados_vinho_licoroso;VINHO LICOROSO;1971;0
+derivados_brandy;BRANDY;1971;0
+derivados_destilado;DESTILADO;1971;0
+derivados_bagaceira;BAGACEIRA;1971;913200
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1971;0
+derivados_vinagre;VINAGRE;1971;21500
+derivados_borra_liquida;BORRA LÍQUIDA;1971;3565644
+derivados_borra_seca;BORRA SECA;1971;0
+derivados_vinho_composto;VINHO COMPOSTO;1971;0
+derivados_pisco;PISCO;1971;0
+derivados_vinho_organico;VINHO ORGÂNICO;1971;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1971;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1971;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1971;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1971;0
+derivados_outros_derivados;OUTROS DERIVADOS;1971;0
+vinho_de_mesa;VINHO DE MESA;1972;146953297
+vinho_mesa_tinto;TINTO;1972;118180926
+vinho_mesa_branco;BRANCO;1972;1812367
+vinho_mesa_rosado;ROSADO;1972;26960004
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1972;21078771
+vinho_viniferas_tinto;TINTO;1972;6782837
+vinho_viniferas_branco;BRANCO;1972;13289304
+vinho_viniferas_rosado;ROSADO;1972;1006630
+suco;SUCO;1972;3509440
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1972;3509440
+suco_concentrado;SUCO DE UVA CONCENTRADO;1972;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1972;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1972;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1972;0
+derivados;DERIVADOS;1972;12314509
+derivados_espumante;ESPUMANTE;1972;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1972;0
+derivados_base_espumante;BASE ESPUMANTE;1972;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1972;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1972;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1972;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1972;0
+derivados_polpa_de_uva;POLPA DE UVA;1972;0
+derivados_mosto_simples;MOSTO SIMPLES;1972;6051822
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1972;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1972;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1972;0
+derivados_mistelas;MISTELAS;1972;871200
+derivados_nectar_de_uva;NÉCTAR DE UVA;1972;0
+derivados_licorosos;LICOROSOS;1972;254600
+derivados_compostos;COMPOSTOS;1972;1358300
+derivados_jeropiga;JEROPIGA;1972;0
+derivados_filtrado;FILTRADO;1972;0
+derivados_frisante;FRISANTE;1972;0
+derivados_vinho_leve;VINHO LEVE;1972;0
+derivados_vinho_licoroso;VINHO LICOROSO;1972;0
+derivados_brandy;BRANDY;1972;0
+derivados_destilado;DESTILADO;1972;0
+derivados_bagaceira;BAGACEIRA;1972;755350
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1972;0
+derivados_vinagre;VINAGRE;1972;8200
+derivados_borra_liquida;BORRA LÍQUIDA;1972;3015037
+derivados_borra_seca;BORRA SECA;1972;0
+derivados_vinho_composto;VINHO COMPOSTO;1972;0
+derivados_pisco;PISCO;1972;0
+derivados_vinho_organico;VINHO ORGÂNICO;1972;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1972;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1972;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1972;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1972;0
+derivados_outros_derivados;OUTROS DERIVADOS;1972;0
+vinho_de_mesa;VINHO DE MESA;1973;116710345
+vinho_mesa_tinto;TINTO;1973;88589019
+vinho_mesa_branco;BRANCO;1973;243900
+vinho_mesa_rosado;ROSADO;1973;27877426
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1973;12368410
+vinho_viniferas_tinto;TINTO;1973;3419625
+vinho_viniferas_branco;BRANCO;1973;7930070
+vinho_viniferas_rosado;ROSADO;1973;1018715
+suco;SUCO;1973;0
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1973;0
+suco_concentrado;SUCO DE UVA CONCENTRADO;1973;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1973;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1973;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1973;0
+derivados;DERIVADOS;1973;28317919
+derivados_espumante;ESPUMANTE;1973;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1973;0
+derivados_base_espumante;BASE ESPUMANTE;1973;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1973;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1973;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1973;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1973;0
+derivados_polpa_de_uva;POLPA DE UVA;1973;0
+derivados_mosto_simples;MOSTO SIMPLES;1973;21779327
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1973;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1973;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1973;0
+derivados_mistelas;MISTELAS;1973;512900
+derivados_nectar_de_uva;NÉCTAR DE UVA;1973;0
+derivados_licorosos;LICOROSOS;1973;176500
+derivados_compostos;COMPOSTOS;1973;1628000
+derivados_jeropiga;JEROPIGA;1973;0
+derivados_filtrado;FILTRADO;1973;0
+derivados_frisante;FRISANTE;1973;0
+derivados_vinho_leve;VINHO LEVE;1973;0
+derivados_vinho_licoroso;VINHO LICOROSO;1973;0
+derivados_brandy;BRANDY;1973;0
+derivados_destilado;DESTILADO;1973;0
+derivados_bagaceira;BAGACEIRA;1973;661270
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1973;0
+derivados_vinagre;VINAGRE;1973;0
+derivados_borra_liquida;BORRA LÍQUIDA;1973;3559922
+derivados_borra_seca;BORRA SECA;1973;0
+derivados_vinho_composto;VINHO COMPOSTO;1973;0
+derivados_pisco;PISCO;1973;0
+derivados_vinho_organico;VINHO ORGÂNICO;1973;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1973;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1973;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1973;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1973;0
+derivados_outros_derivados;OUTROS DERIVADOS;1973;0
+vinho_de_mesa;VINHO DE MESA;1974;193875345
+vinho_mesa_tinto;TINTO;1974;146544484
+vinho_mesa_branco;BRANCO;1974;4138768
+vinho_mesa_rosado;ROSADO;1974;43192093
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1974;31644124
+vinho_viniferas_tinto;TINTO;1974;10047658
+vinho_viniferas_branco;BRANCO;1974;18927471
+vinho_viniferas_rosado;ROSADO;1974;2668995
+suco;SUCO;1974;0
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1974;0
+suco_concentrado;SUCO DE UVA CONCENTRADO;1974;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1974;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1974;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1974;0
+derivados;DERIVADOS;1974;47904934
+derivados_espumante;ESPUMANTE;1974;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1974;0
+derivados_base_espumante;BASE ESPUMANTE;1974;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1974;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1974;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1974;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1974;0
+derivados_polpa_de_uva;POLPA DE UVA;1974;0
+derivados_mosto_simples;MOSTO SIMPLES;1974;41346735
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1974;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1974;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1974;0
+derivados_mistelas;MISTELAS;1974;826300
+derivados_nectar_de_uva;NÉCTAR DE UVA;1974;0
+derivados_licorosos;LICOROSOS;1974;135000
+derivados_compostos;COMPOSTOS;1974;0
+derivados_jeropiga;JEROPIGA;1974;0
+derivados_filtrado;FILTRADO;1974;0
+derivados_frisante;FRISANTE;1974;0
+derivados_vinho_leve;VINHO LEVE;1974;0
+derivados_vinho_licoroso;VINHO LICOROSO;1974;0
+derivados_brandy;BRANDY;1974;0
+derivados_destilado;DESTILADO;1974;0
+derivados_bagaceira;BAGACEIRA;1974;424620
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1974;0
+derivados_vinagre;VINAGRE;1974;35300
+derivados_borra_liquida;BORRA LÍQUIDA;1974;5136979
+derivados_borra_seca;BORRA SECA;1974;0
+derivados_vinho_composto;VINHO COMPOSTO;1974;0
+derivados_pisco;PISCO;1974;0
+derivados_vinho_organico;VINHO ORGÂNICO;1974;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1974;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1974;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1974;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1974;0
+derivados_outros_derivados;OUTROS DERIVADOS;1974;0
+vinho_de_mesa;VINHO DE MESA;1975;177401209
+vinho_mesa_tinto;TINTO;1975;144274134
+vinho_mesa_branco;BRANCO;1975;1441507
+vinho_mesa_rosado;ROSADO;1975;31685568
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1975;39424590
+vinho_viniferas_tinto;TINTO;1975;14731106
+vinho_viniferas_branco;BRANCO;1975;21933695
+vinho_viniferas_rosado;ROSADO;1975;2759789
+suco;SUCO;1975;0
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1975;0
+suco_concentrado;SUCO DE UVA CONCENTRADO;1975;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1975;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1975;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1975;0
+derivados;DERIVADOS;1975;53633143
+derivados_espumante;ESPUMANTE;1975;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1975;0
+derivados_base_espumante;BASE ESPUMANTE;1975;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1975;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1975;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1975;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1975;0
+derivados_polpa_de_uva;POLPA DE UVA;1975;0
+derivados_mosto_simples;MOSTO SIMPLES;1975;48185206
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1975;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1975;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1975;0
+derivados_mistelas;MISTELAS;1975;223000
+derivados_nectar_de_uva;NÉCTAR DE UVA;1975;0
+derivados_licorosos;LICOROSOS;1975;24000
+derivados_compostos;COMPOSTOS;1975;0
+derivados_jeropiga;JEROPIGA;1975;0
+derivados_filtrado;FILTRADO;1975;0
+derivados_frisante;FRISANTE;1975;0
+derivados_vinho_leve;VINHO LEVE;1975;0
+derivados_vinho_licoroso;VINHO LICOROSO;1975;0
+derivados_brandy;BRANDY;1975;0
+derivados_destilado;DESTILADO;1975;0
+derivados_bagaceira;BAGACEIRA;1975;576098
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1975;0
+derivados_vinagre;VINAGRE;1975;0
+derivados_borra_liquida;BORRA LÍQUIDA;1975;4624839
+derivados_borra_seca;BORRA SECA;1975;0
+derivados_vinho_composto;VINHO COMPOSTO;1975;0
+derivados_pisco;PISCO;1975;0
+derivados_vinho_organico;VINHO ORGÂNICO;1975;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1975;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1975;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1975;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1975;0
+derivados_outros_derivados;OUTROS DERIVADOS;1975;0
+vinho_de_mesa;VINHO DE MESA;1976;144565438
+vinho_mesa_tinto;TINTO;1976;118360170
+vinho_mesa_branco;BRANCO;1976;1871473
+vinho_mesa_rosado;ROSADO;1976;24333795
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1976;34500590
+vinho_viniferas_tinto;TINTO;1976;12405154
+vinho_viniferas_branco;BRANCO;1976;19874659
+vinho_viniferas_rosado;ROSADO;1976;2220777
+suco;SUCO;1976;0
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1976;0
+suco_concentrado;SUCO DE UVA CONCENTRADO;1976;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1976;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1976;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1976;0
+derivados;DERIVADOS;1976;22925012
+derivados_espumante;ESPUMANTE;1976;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1976;0
+derivados_base_espumante;BASE ESPUMANTE;1976;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1976;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1976;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1976;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1976;0
+derivados_polpa_de_uva;POLPA DE UVA;1976;0
+derivados_mosto_simples;MOSTO SIMPLES;1976;18220527
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1976;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1976;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1976;0
+derivados_mistelas;MISTELAS;1976;205500
+derivados_nectar_de_uva;NÉCTAR DE UVA;1976;0
+derivados_licorosos;LICOROSOS;1976;4400
+derivados_compostos;COMPOSTOS;1976;0
+derivados_jeropiga;JEROPIGA;1976;107500
+derivados_filtrado;FILTRADO;1976;0
+derivados_frisante;FRISANTE;1976;0
+derivados_vinho_leve;VINHO LEVE;1976;0
+derivados_vinho_licoroso;VINHO LICOROSO;1976;0
+derivados_brandy;BRANDY;1976;0
+derivados_destilado;DESTILADO;1976;0
+derivados_bagaceira;BAGACEIRA;1976;705912
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1976;0
+derivados_vinagre;VINAGRE;1976;288000
+derivados_borra_liquida;BORRA LÍQUIDA;1976;3393173
+derivados_borra_seca;BORRA SECA;1976;0
+derivados_vinho_composto;VINHO COMPOSTO;1976;0
+derivados_pisco;PISCO;1976;0
+derivados_vinho_organico;VINHO ORGÂNICO;1976;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1976;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1976;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1976;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1976;0
+derivados_outros_derivados;OUTROS DERIVADOS;1976;0
+vinho_de_mesa;VINHO DE MESA;1977;195359778
+vinho_mesa_tinto;TINTO;1977;154801826
+vinho_mesa_branco;BRANCO;1977;4954387
+vinho_mesa_rosado;ROSADO;1977;35603565
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1977;41264971
+vinho_viniferas_tinto;TINTO;1977;16131758
+vinho_viniferas_branco;BRANCO;1977;20409231
+vinho_viniferas_rosado;ROSADO;1977;4723982
+suco;SUCO;1977;0
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1977;0
+suco_concentrado;SUCO DE UVA CONCENTRADO;1977;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1977;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1977;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1977;0
+derivados;DERIVADOS;1977;24015856
+derivados_espumante;ESPUMANTE;1977;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1977;0
+derivados_base_espumante;BASE ESPUMANTE;1977;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1977;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1977;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1977;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1977;0
+derivados_polpa_de_uva;POLPA DE UVA;1977;0
+derivados_mosto_simples;MOSTO SIMPLES;1977;22097156
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1977;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1977;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1977;0
+derivados_mistelas;MISTELAS;1977;553200
+derivados_nectar_de_uva;NÉCTAR DE UVA;1977;0
+derivados_licorosos;LICOROSOS;1977;525000
+derivados_compostos;COMPOSTOS;1977;0
+derivados_jeropiga;JEROPIGA;1977;12500
+derivados_filtrado;FILTRADO;1977;0
+derivados_frisante;FRISANTE;1977;0
+derivados_vinho_leve;VINHO LEVE;1977;0
+derivados_vinho_licoroso;VINHO LICOROSO;1977;0
+derivados_brandy;BRANDY;1977;0
+derivados_destilado;DESTILADO;1977;0
+derivados_bagaceira;BAGACEIRA;1977;828000
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1977;0
+derivados_vinagre;VINAGRE;1977;0
+derivados_borra_liquida;BORRA LÍQUIDA;1977;0
+derivados_borra_seca;BORRA SECA;1977;0
+derivados_vinho_composto;VINHO COMPOSTO;1977;0
+derivados_pisco;PISCO;1977;0
+derivados_vinho_organico;VINHO ORGÂNICO;1977;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1977;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1977;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1977;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1977;0
+derivados_outros_derivados;OUTROS DERIVADOS;1977;0
+vinho_de_mesa;VINHO DE MESA;1978;200053669
+vinho_mesa_tinto;TINTO;1978;162917363
+vinho_mesa_branco;BRANCO;1978;5079748
+vinho_mesa_rosado;ROSADO;1978;32056558
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1978;36750933
+vinho_viniferas_tinto;TINTO;1978;15000671
+vinho_viniferas_branco;BRANCO;1978;17640081
+vinho_viniferas_rosado;ROSADO;1978;4110181
+suco;SUCO;1978;0
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1978;0
+suco_concentrado;SUCO DE UVA CONCENTRADO;1978;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1978;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1978;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1978;0
+derivados;DERIVADOS;1978;41607777
+derivados_espumante;ESPUMANTE;1978;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1978;0
+derivados_base_espumante;BASE ESPUMANTE;1978;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1978;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1978;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1978;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1978;0
+derivados_polpa_de_uva;POLPA DE UVA;1978;0
+derivados_mosto_simples;MOSTO SIMPLES;1978;40052456
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1978;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1978;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1978;0
+derivados_mistelas;MISTELAS;1978;242150
+derivados_nectar_de_uva;NÉCTAR DE UVA;1978;0
+derivados_licorosos;LICOROSOS;1978;479971
+derivados_compostos;COMPOSTOS;1978;75000
+derivados_jeropiga;JEROPIGA;1978;60000
+derivados_filtrado;FILTRADO;1978;0
+derivados_frisante;FRISANTE;1978;0
+derivados_vinho_leve;VINHO LEVE;1978;0
+derivados_vinho_licoroso;VINHO LICOROSO;1978;0
+derivados_brandy;BRANDY;1978;0
+derivados_destilado;DESTILADO;1978;0
+derivados_bagaceira;BAGACEIRA;1978;698200
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1978;0
+derivados_vinagre;VINAGRE;1978;0
+derivados_borra_liquida;BORRA LÍQUIDA;1978;0
+derivados_borra_seca;BORRA SECA;1978;0
+derivados_vinho_composto;VINHO COMPOSTO;1978;0
+derivados_pisco;PISCO;1978;0
+derivados_vinho_organico;VINHO ORGÂNICO;1978;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1978;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1978;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1978;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1978;0
+derivados_outros_derivados;OUTROS DERIVADOS;1978;0
+vinho_de_mesa;VINHO DE MESA;1979;211252982
+vinho_mesa_tinto;TINTO;1979;154736439
+vinho_mesa_branco;BRANCO;1979;7146395
+vinho_mesa_rosado;ROSADO;1979;49370148
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1979;46129710
+vinho_viniferas_tinto;TINTO;1979;14356453
+vinho_viniferas_branco;BRANCO;1979;25727132
+vinho_viniferas_rosado;ROSADO;1979;6046125
+suco;SUCO;1979;0
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1979;0
+suco_concentrado;SUCO DE UVA CONCENTRADO;1979;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1979;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1979;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1979;0
+derivados;DERIVADOS;1979;35370846
+derivados_espumante;ESPUMANTE;1979;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1979;0
+derivados_base_espumante;BASE ESPUMANTE;1979;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1979;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1979;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1979;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1979;0
+derivados_polpa_de_uva;POLPA DE UVA;1979;0
+derivados_mosto_simples;MOSTO SIMPLES;1979;34318456
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1979;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1979;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1979;0
+derivados_mistelas;MISTELAS;1979;60300
+derivados_nectar_de_uva;NÉCTAR DE UVA;1979;0
+derivados_licorosos;LICOROSOS;1979;34000
+derivados_compostos;COMPOSTOS;1979;0
+derivados_jeropiga;JEROPIGA;1979;20000
+derivados_filtrado;FILTRADO;1979;0
+derivados_frisante;FRISANTE;1979;0
+derivados_vinho_leve;VINHO LEVE;1979;0
+derivados_vinho_licoroso;VINHO LICOROSO;1979;0
+derivados_brandy;BRANDY;1979;0
+derivados_destilado;DESTILADO;1979;0
+derivados_bagaceira;BAGACEIRA;1979;938090
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1979;0
+derivados_vinagre;VINAGRE;1979;0
+derivados_borra_liquida;BORRA LÍQUIDA;1979;0
+derivados_borra_seca;BORRA SECA;1979;0
+derivados_vinho_composto;VINHO COMPOSTO;1979;0
+derivados_pisco;PISCO;1979;0
+derivados_vinho_organico;VINHO ORGÂNICO;1979;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1979;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1979;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1979;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1979;0
+derivados_outros_derivados;OUTROS DERIVADOS;1979;0
+vinho_de_mesa;VINHO DE MESA;1980;130308185
+vinho_mesa_tinto;TINTO;1980;101659755
+vinho_mesa_branco;BRANCO;1980;5363452
+vinho_mesa_rosado;ROSADO;1980;23284978
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1980;31740663
+vinho_viniferas_tinto;TINTO;1980;9296741
+vinho_viniferas_branco;BRANCO;1980;19326572
+vinho_viniferas_rosado;ROSADO;1980;3117350
+suco;SUCO;1980;0
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1980;0
+suco_concentrado;SUCO DE UVA CONCENTRADO;1980;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1980;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1980;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1980;0
+derivados;DERIVADOS;1980;37553414
+derivados_espumante;ESPUMANTE;1980;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1980;0
+derivados_base_espumante;BASE ESPUMANTE;1980;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1980;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1980;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1980;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1980;0
+derivados_polpa_de_uva;POLPA DE UVA;1980;0
+derivados_mosto_simples;MOSTO SIMPLES;1980;37553414
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1980;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1980;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1980;0
+derivados_mistelas;MISTELAS;1980;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1980;0
+derivados_licorosos;LICOROSOS;1980;0
+derivados_compostos;COMPOSTOS;1980;0
+derivados_jeropiga;JEROPIGA;1980;0
+derivados_filtrado;FILTRADO;1980;0
+derivados_frisante;FRISANTE;1980;0
+derivados_vinho_leve;VINHO LEVE;1980;0
+derivados_vinho_licoroso;VINHO LICOROSO;1980;0
+derivados_brandy;BRANDY;1980;0
+derivados_destilado;DESTILADO;1980;0
+derivados_bagaceira;BAGACEIRA;1980;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1980;0
+derivados_vinagre;VINAGRE;1980;0
+derivados_borra_liquida;BORRA LÍQUIDA;1980;0
+derivados_borra_seca;BORRA SECA;1980;0
+derivados_vinho_composto;VINHO COMPOSTO;1980;0
+derivados_pisco;PISCO;1980;0
+derivados_vinho_organico;VINHO ORGÂNICO;1980;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1980;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1980;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1980;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1980;0
+derivados_outros_derivados;OUTROS DERIVADOS;1980;0
+vinho_de_mesa;VINHO DE MESA;1981;186129728
+vinho_mesa_tinto;TINTO;1981;134156175
+vinho_mesa_branco;BRANCO;1981;12547739
+vinho_mesa_rosado;ROSADO;1981;39425814
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1981;49348047
+vinho_viniferas_tinto;TINTO;1981;16036963
+vinho_viniferas_branco;BRANCO;1981;27528276
+vinho_viniferas_rosado;ROSADO;1981;5782808
+suco;SUCO;1981;0
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1981;0
+suco_concentrado;SUCO DE UVA CONCENTRADO;1981;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1981;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1981;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1981;0
+derivados;DERIVADOS;1981;52530037
+derivados_espumante;ESPUMANTE;1981;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1981;0
+derivados_base_espumante;BASE ESPUMANTE;1981;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1981;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1981;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1981;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1981;0
+derivados_polpa_de_uva;POLPA DE UVA;1981;0
+derivados_mosto_simples;MOSTO SIMPLES;1981;48762185
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1981;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1981;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1981;0
+derivados_mistelas;MISTELAS;1981;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1981;0
+derivados_licorosos;LICOROSOS;1981;0
+derivados_compostos;COMPOSTOS;1981;0
+derivados_jeropiga;JEROPIGA;1981;0
+derivados_filtrado;FILTRADO;1981;0
+derivados_frisante;FRISANTE;1981;0
+derivados_vinho_leve;VINHO LEVE;1981;0
+derivados_vinho_licoroso;VINHO LICOROSO;1981;0
+derivados_brandy;BRANDY;1981;0
+derivados_destilado;DESTILADO;1981;0
+derivados_bagaceira;BAGACEIRA;1981;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1981;0
+derivados_vinagre;VINAGRE;1981;0
+derivados_borra_liquida;BORRA LÍQUIDA;1981;3767852
+derivados_borra_seca;BORRA SECA;1981;0
+derivados_vinho_composto;VINHO COMPOSTO;1981;0
+derivados_pisco;PISCO;1981;0
+derivados_vinho_organico;VINHO ORGÂNICO;1981;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1981;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1981;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1981;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1981;0
+derivados_outros_derivados;OUTROS DERIVADOS;1981;0
+vinho_de_mesa;VINHO DE MESA;1982;234754564
+vinho_mesa_tinto;TINTO;1982;183349460
+vinho_mesa_branco;BRANCO;1982;15782499
+vinho_mesa_rosado;ROSADO;1982;35622605
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1982;57453581
+vinho_viniferas_tinto;TINTO;1982;19987588
+vinho_viniferas_branco;BRANCO;1982;34423412
+vinho_viniferas_rosado;ROSADO;1982;3042581
+suco;SUCO;1982;0
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1982;0
+suco_concentrado;SUCO DE UVA CONCENTRADO;1982;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1982;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1982;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1982;0
+derivados;DERIVADOS;1982;37506770
+derivados_espumante;ESPUMANTE;1982;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1982;0
+derivados_base_espumante;BASE ESPUMANTE;1982;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1982;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1982;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1982;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1982;0
+derivados_polpa_de_uva;POLPA DE UVA;1982;0
+derivados_mosto_simples;MOSTO SIMPLES;1982;37506770
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1982;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1982;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1982;0
+derivados_mistelas;MISTELAS;1982;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1982;0
+derivados_licorosos;LICOROSOS;1982;0
+derivados_compostos;COMPOSTOS;1982;0
+derivados_jeropiga;JEROPIGA;1982;0
+derivados_filtrado;FILTRADO;1982;0
+derivados_frisante;FRISANTE;1982;0
+derivados_vinho_leve;VINHO LEVE;1982;0
+derivados_vinho_licoroso;VINHO LICOROSO;1982;0
+derivados_brandy;BRANDY;1982;0
+derivados_destilado;DESTILADO;1982;0
+derivados_bagaceira;BAGACEIRA;1982;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1982;0
+derivados_vinagre;VINAGRE;1982;0
+derivados_borra_liquida;BORRA LÍQUIDA;1982;0
+derivados_borra_seca;BORRA SECA;1982;0
+derivados_vinho_composto;VINHO COMPOSTO;1982;0
+derivados_pisco;PISCO;1982;0
+derivados_vinho_organico;VINHO ORGÂNICO;1982;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1982;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1982;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1982;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1982;0
+derivados_outros_derivados;OUTROS DERIVADOS;1982;0
+vinho_de_mesa;VINHO DE MESA;1983;120261544
+vinho_mesa_tinto;TINTO;1983;87080528
+vinho_mesa_branco;BRANCO;1983;12191896
+vinho_mesa_rosado;ROSADO;1983;20989120
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1983;40616812
+vinho_viniferas_tinto;TINTO;1983;14340514
+vinho_viniferas_branco;BRANCO;1983;24164361
+vinho_viniferas_rosado;ROSADO;1983;2111937
+suco;SUCO;1983;0
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1983;0
+suco_concentrado;SUCO DE UVA CONCENTRADO;1983;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1983;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1983;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1983;0
+derivados;DERIVADOS;1983;27314628
+derivados_espumante;ESPUMANTE;1983;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1983;0
+derivados_base_espumante;BASE ESPUMANTE;1983;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1983;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1983;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1983;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1983;0
+derivados_polpa_de_uva;POLPA DE UVA;1983;0
+derivados_mosto_simples;MOSTO SIMPLES;1983;27314628
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1983;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1983;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1983;0
+derivados_mistelas;MISTELAS;1983;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1983;0
+derivados_licorosos;LICOROSOS;1983;0
+derivados_compostos;COMPOSTOS;1983;0
+derivados_jeropiga;JEROPIGA;1983;0
+derivados_filtrado;FILTRADO;1983;0
+derivados_frisante;FRISANTE;1983;0
+derivados_vinho_leve;VINHO LEVE;1983;0
+derivados_vinho_licoroso;VINHO LICOROSO;1983;0
+derivados_brandy;BRANDY;1983;0
+derivados_destilado;DESTILADO;1983;0
+derivados_bagaceira;BAGACEIRA;1983;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1983;0
+derivados_vinagre;VINAGRE;1983;0
+derivados_borra_liquida;BORRA LÍQUIDA;1983;0
+derivados_borra_seca;BORRA SECA;1983;0
+derivados_vinho_composto;VINHO COMPOSTO;1983;0
+derivados_pisco;PISCO;1983;0
+derivados_vinho_organico;VINHO ORGÂNICO;1983;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1983;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1983;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1983;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1983;0
+derivados_outros_derivados;OUTROS DERIVADOS;1983;0
+vinho_de_mesa;VINHO DE MESA;1984;177680331
+vinho_mesa_tinto;TINTO;1984;119615028
+vinho_mesa_branco;BRANCO;1984;19502230
+vinho_mesa_rosado;ROSADO;1984;38563073
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1984;48289279
+vinho_viniferas_tinto;TINTO;1984;15777602
+vinho_viniferas_branco;BRANCO;1984;30395959
+vinho_viniferas_rosado;ROSADO;1984;2115718
+suco;SUCO;1984;0
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1984;0
+suco_concentrado;SUCO DE UVA CONCENTRADO;1984;0
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1984;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1984;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1984;0
+derivados;DERIVADOS;1984;17331744
+derivados_espumante;ESPUMANTE;1984;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1984;0
+derivados_base_espumante;BASE ESPUMANTE;1984;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1984;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1984;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1984;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1984;0
+derivados_polpa_de_uva;POLPA DE UVA;1984;0
+derivados_mosto_simples;MOSTO SIMPLES;1984;17331744
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1984;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1984;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1984;0
+derivados_mistelas;MISTELAS;1984;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1984;0
+derivados_licorosos;LICOROSOS;1984;0
+derivados_compostos;COMPOSTOS;1984;0
+derivados_jeropiga;JEROPIGA;1984;0
+derivados_filtrado;FILTRADO;1984;0
+derivados_frisante;FRISANTE;1984;0
+derivados_vinho_leve;VINHO LEVE;1984;0
+derivados_vinho_licoroso;VINHO LICOROSO;1984;0
+derivados_brandy;BRANDY;1984;0
+derivados_destilado;DESTILADO;1984;0
+derivados_bagaceira;BAGACEIRA;1984;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1984;0
+derivados_vinagre;VINAGRE;1984;0
+derivados_borra_liquida;BORRA LÍQUIDA;1984;0
+derivados_borra_seca;BORRA SECA;1984;0
+derivados_vinho_composto;VINHO COMPOSTO;1984;0
+derivados_pisco;PISCO;1984;0
+derivados_vinho_organico;VINHO ORGÂNICO;1984;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1984;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1984;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1984;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1984;0
+derivados_outros_derivados;OUTROS DERIVADOS;1984;0
+vinho_de_mesa;VINHO DE MESA;1985;275338955
+vinho_mesa_tinto;TINTO;1985;216732390
+vinho_mesa_branco;BRANCO;1985;23010666
+vinho_mesa_rosado;ROSADO;1985;35595899
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1985;67035393
+vinho_viniferas_tinto;TINTO;1985;19347979
+vinho_viniferas_branco;BRANCO;1985;44679484
+vinho_viniferas_rosado;ROSADO;1985;3007930
+suco;SUCO;1985;6631667
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1985;3544706
+suco_concentrado;SUCO DE UVA CONCENTRADO;1985;3086961
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1985;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1985;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1985;0
+derivados;DERIVADOS;1985;17336419
+derivados_espumante;ESPUMANTE;1985;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1985;0
+derivados_base_espumante;BASE ESPUMANTE;1985;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1985;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1985;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1985;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1985;0
+derivados_polpa_de_uva;POLPA DE UVA;1985;0
+derivados_mosto_simples;MOSTO SIMPLES;1985;10637557
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1985;354707
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1985;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1985;0
+derivados_mistelas;MISTELAS;1985;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1985;0
+derivados_licorosos;LICOROSOS;1985;0
+derivados_compostos;COMPOSTOS;1985;0
+derivados_jeropiga;JEROPIGA;1985;234500
+derivados_filtrado;FILTRADO;1985;0
+derivados_frisante;FRISANTE;1985;0
+derivados_vinho_leve;VINHO LEVE;1985;0
+derivados_vinho_licoroso;VINHO LICOROSO;1985;0
+derivados_brandy;BRANDY;1985;13000
+derivados_destilado;DESTILADO;1985;342650
+derivados_bagaceira;BAGACEIRA;1985;299500
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1985;0
+derivados_vinagre;VINAGRE;1985;104707
+derivados_borra_liquida;BORRA LÍQUIDA;1985;5095798
+derivados_borra_seca;BORRA SECA;1985;0
+derivados_vinho_composto;VINHO COMPOSTO;1985;0
+derivados_pisco;PISCO;1985;0
+derivados_vinho_organico;VINHO ORGÂNICO;1985;254000
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1985;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1985;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1985;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1985;0
+derivados_outros_derivados;OUTROS DERIVADOS;1985;0
+vinho_de_mesa;VINHO DE MESA;1986;157711522
+vinho_mesa_tinto;TINTO;1986;118766694
+vinho_mesa_branco;BRANCO;1986;16872183
+vinho_mesa_rosado;ROSADO;1986;22072645
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1986;48559180
+vinho_viniferas_tinto;TINTO;1986;12282967
+vinho_viniferas_branco;BRANCO;1986;34794145
+vinho_viniferas_rosado;ROSADO;1986;1482068
+suco;SUCO;1986;4313768
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1986;2116507
+suco_concentrado;SUCO DE UVA CONCENTRADO;1986;2197261
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1986;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1986;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1986;0
+derivados;DERIVADOS;1986;14785645
+derivados_espumante;ESPUMANTE;1986;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1986;0
+derivados_base_espumante;BASE ESPUMANTE;1986;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1986;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1986;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1986;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1986;0
+derivados_polpa_de_uva;POLPA DE UVA;1986;0
+derivados_mosto_simples;MOSTO SIMPLES;1986;7031320
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1986;295800
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1986;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1986;0
+derivados_mistelas;MISTELAS;1986;378400
+derivados_nectar_de_uva;NÉCTAR DE UVA;1986;0
+derivados_licorosos;LICOROSOS;1986;0
+derivados_compostos;COMPOSTOS;1986;0
+derivados_jeropiga;JEROPIGA;1986;173000
+derivados_filtrado;FILTRADO;1986;0
+derivados_frisante;FRISANTE;1986;0
+derivados_vinho_leve;VINHO LEVE;1986;0
+derivados_vinho_licoroso;VINHO LICOROSO;1986;0
+derivados_brandy;BRANDY;1986;0
+derivados_destilado;DESTILADO;1986;222230
+derivados_bagaceira;BAGACEIRA;1986;156100
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1986;0
+derivados_vinagre;VINAGRE;1986;0
+derivados_borra_liquida;BORRA LÍQUIDA;1986;6357648
+derivados_borra_seca;BORRA SECA;1986;0
+derivados_vinho_composto;VINHO COMPOSTO;1986;0
+derivados_pisco;PISCO;1986;0
+derivados_vinho_organico;VINHO ORGÂNICO;1986;171147
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1986;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1986;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1986;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1986;0
+derivados_outros_derivados;OUTROS DERIVADOS;1986;0
+vinho_de_mesa;VINHO DE MESA;1987;150467184
+vinho_mesa_tinto;TINTO;1987;97841160
+vinho_mesa_branco;BRANCO;1987;27497857
+vinho_mesa_rosado;ROSADO;1987;25128167
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1987;47301266
+vinho_viniferas_tinto;TINTO;1987;10920073
+vinho_viniferas_branco;BRANCO;1987;35432544
+vinho_viniferas_rosado;ROSADO;1987;948649
+suco;SUCO;1987;5469016
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1987;2262240
+suco_concentrado;SUCO DE UVA CONCENTRADO;1987;3206776
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1987;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1987;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1987;0
+derivados;DERIVADOS;1987;14905862
+derivados_espumante;ESPUMANTE;1987;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1987;0
+derivados_base_espumante;BASE ESPUMANTE;1987;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1987;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1987;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1987;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1987;0
+derivados_polpa_de_uva;POLPA DE UVA;1987;0
+derivados_mosto_simples;MOSTO SIMPLES;1987;7821040
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1987;400500
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1987;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1987;0
+derivados_mistelas;MISTELAS;1987;402600
+derivados_nectar_de_uva;NÉCTAR DE UVA;1987;0
+derivados_licorosos;LICOROSOS;1987;0
+derivados_compostos;COMPOSTOS;1987;0
+derivados_jeropiga;JEROPIGA;1987;122000
+derivados_filtrado;FILTRADO;1987;0
+derivados_frisante;FRISANTE;1987;0
+derivados_vinho_leve;VINHO LEVE;1987;0
+derivados_vinho_licoroso;VINHO LICOROSO;1987;0
+derivados_brandy;BRANDY;1987;0
+derivados_destilado;DESTILADO;1987;472576
+derivados_bagaceira;BAGACEIRA;1987;325600
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1987;0
+derivados_vinagre;VINAGRE;1987;0
+derivados_borra_liquida;BORRA LÍQUIDA;1987;5142446
+derivados_borra_seca;BORRA SECA;1987;0
+derivados_vinho_composto;VINHO COMPOSTO;1987;0
+derivados_pisco;PISCO;1987;0
+derivados_vinho_organico;VINHO ORGÂNICO;1987;219100
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1987;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1987;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1987;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1987;0
+derivados_outros_derivados;OUTROS DERIVADOS;1987;0
+vinho_de_mesa;VINHO DE MESA;1988;244791058
+vinho_mesa_tinto;TINTO;1988;173747942
+vinho_mesa_branco;BRANCO;1988;32660045
+vinho_mesa_rosado;ROSADO;1988;38383071
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1988;76560765
+vinho_viniferas_tinto;TINTO;1988;18690518
+vinho_viniferas_branco;BRANCO;1988;56441847
+vinho_viniferas_rosado;ROSADO;1988;1428400
+suco;SUCO;1988;7586870
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1988;2018000
+suco_concentrado;SUCO DE UVA CONCENTRADO;1988;5568870
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1988;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1988;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1988;0
+derivados;DERIVADOS;1988;19644584
+derivados_espumante;ESPUMANTE;1988;76000
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1988;0
+derivados_base_espumante;BASE ESPUMANTE;1988;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1988;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1988;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1988;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1988;0
+derivados_polpa_de_uva;POLPA DE UVA;1988;0
+derivados_mosto_simples;MOSTO SIMPLES;1988;16544460
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1988;384200
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1988;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1988;0
+derivados_mistelas;MISTELAS;1988;196000
+derivados_nectar_de_uva;NÉCTAR DE UVA;1988;0
+derivados_licorosos;LICOROSOS;1988;3000
+derivados_compostos;COMPOSTOS;1988;2000
+derivados_jeropiga;JEROPIGA;1988;61000
+derivados_filtrado;FILTRADO;1988;88000
+derivados_frisante;FRISANTE;1988;0
+derivados_vinho_leve;VINHO LEVE;1988;0
+derivados_vinho_licoroso;VINHO LICOROSO;1988;0
+derivados_brandy;BRANDY;1988;5216
+derivados_destilado;DESTILADO;1988;287220
+derivados_bagaceira;BAGACEIRA;1988;29000
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1988;0
+derivados_vinagre;VINAGRE;1988;0
+derivados_borra_liquida;BORRA LÍQUIDA;1988;1953488
+derivados_borra_seca;BORRA SECA;1988;0
+derivados_vinho_composto;VINHO COMPOSTO;1988;0
+derivados_pisco;PISCO;1988;0
+derivados_vinho_organico;VINHO ORGÂNICO;1988;15000
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1988;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1988;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1988;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1988;0
+derivados_outros_derivados;OUTROS DERIVADOS;1988;0
+vinho_de_mesa;VINHO DE MESA;1989;181801961
+vinho_mesa_tinto;TINTO;1989;136931173
+vinho_mesa_branco;BRANCO;1989;24603265
+vinho_mesa_rosado;ROSADO;1989;20267523
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1989;72772144
+vinho_viniferas_tinto;TINTO;1989;16140751
+vinho_viniferas_branco;BRANCO;1989;54983093
+vinho_viniferas_rosado;ROSADO;1989;1648300
+suco;SUCO;1989;6923183
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1989;2824600
+suco_concentrado;SUCO DE UVA CONCENTRADO;1989;4098583
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1989;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1989;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1989;0
+derivados;DERIVADOS;1989;12004574
+derivados_espumante;ESPUMANTE;1989;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1989;0
+derivados_base_espumante;BASE ESPUMANTE;1989;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1989;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1989;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1989;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1989;0
+derivados_polpa_de_uva;POLPA DE UVA;1989;0
+derivados_mosto_simples;MOSTO SIMPLES;1989;8141100
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1989;732470
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1989;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1989;0
+derivados_mistelas;MISTELAS;1989;32000
+derivados_nectar_de_uva;NÉCTAR DE UVA;1989;0
+derivados_licorosos;LICOROSOS;1989;20000
+derivados_compostos;COMPOSTOS;1989;1900
+derivados_jeropiga;JEROPIGA;1989;42000
+derivados_filtrado;FILTRADO;1989;39000
+derivados_frisante;FRISANTE;1989;0
+derivados_vinho_leve;VINHO LEVE;1989;249000
+derivados_vinho_licoroso;VINHO LICOROSO;1989;0
+derivados_brandy;BRANDY;1989;6500
+derivados_destilado;DESTILADO;1989;176800
+derivados_bagaceira;BAGACEIRA;1989;52000
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1989;0
+derivados_vinagre;VINAGRE;1989;0
+derivados_borra_liquida;BORRA LÍQUIDA;1989;2426804
+derivados_borra_seca;BORRA SECA;1989;0
+derivados_vinho_composto;VINHO COMPOSTO;1989;0
+derivados_pisco;PISCO;1989;0
+derivados_vinho_organico;VINHO ORGÂNICO;1989;85000
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1989;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1989;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1989;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1989;0
+derivados_outros_derivados;OUTROS DERIVADOS;1989;0
+vinho_de_mesa;VINHO DE MESA;1990;210548199
+vinho_mesa_tinto;TINTO;1990;154359897
+vinho_mesa_branco;BRANCO;1990;33512030
+vinho_mesa_rosado;ROSADO;1990;22676272
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1990;73689124
+vinho_viniferas_tinto;TINTO;1990;17750504
+vinho_viniferas_branco;BRANCO;1990;52080420
+vinho_viniferas_rosado;ROSADO;1990;3858200
+suco;SUCO;1990;10423252
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1990;2848560
+suco_concentrado;SUCO DE UVA CONCENTRADO;1990;7574692
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1990;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1990;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1990;0
+derivados;DERIVADOS;1990;16191621
+derivados_espumante;ESPUMANTE;1990;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1990;0
+derivados_base_espumante;BASE ESPUMANTE;1990;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1990;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1990;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1990;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1990;0
+derivados_polpa_de_uva;POLPA DE UVA;1990;0
+derivados_mosto_simples;MOSTO SIMPLES;1990;13307690
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1990;1098250
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1990;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1990;0
+derivados_mistelas;MISTELAS;1990;149000
+derivados_nectar_de_uva;NÉCTAR DE UVA;1990;0
+derivados_licorosos;LICOROSOS;1990;24300
+derivados_compostos;COMPOSTOS;1990;0
+derivados_jeropiga;JEROPIGA;1990;0
+derivados_filtrado;FILTRADO;1990;11000
+derivados_frisante;FRISANTE;1990;0
+derivados_vinho_leve;VINHO LEVE;1990;264000
+derivados_vinho_licoroso;VINHO LICOROSO;1990;0
+derivados_brandy;BRANDY;1990;0
+derivados_destilado;DESTILADO;1990;0
+derivados_bagaceira;BAGACEIRA;1990;55000
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1990;0
+derivados_vinagre;VINAGRE;1990;0
+derivados_borra_liquida;BORRA LÍQUIDA;1990;1282381
+derivados_borra_seca;BORRA SECA;1990;0
+derivados_vinho_composto;VINHO COMPOSTO;1990;0
+derivados_pisco;PISCO;1990;0
+derivados_vinho_organico;VINHO ORGÂNICO;1990;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1990;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1990;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1990;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1990;0
+derivados_outros_derivados;OUTROS DERIVADOS;1990;0
+vinho_de_mesa;VINHO DE MESA;1991;126768254
+vinho_mesa_tinto;TINTO;1991;90320836
+vinho_mesa_branco;BRANCO;1991;25046588
+vinho_mesa_rosado;ROSADO;1991;11400830
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1991;45519167
+vinho_viniferas_tinto;TINTO;1991;12001895
+vinho_viniferas_branco;BRANCO;1991;33307472
+vinho_viniferas_rosado;ROSADO;1991;209800
+suco;SUCO;1991;11324462
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1991;3609000
+suco_concentrado;SUCO DE UVA CONCENTRADO;1991;7715462
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1991;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1991;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1991;0
+derivados;DERIVADOS;1991;20352398
+derivados_espumante;ESPUMANTE;1991;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1991;0
+derivados_base_espumante;BASE ESPUMANTE;1991;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1991;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1991;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1991;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1991;0
+derivados_polpa_de_uva;POLPA DE UVA;1991;0
+derivados_mosto_simples;MOSTO SIMPLES;1991;17407568
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1991;921400
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1991;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1991;0
+derivados_mistelas;MISTELAS;1991;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1991;0
+derivados_licorosos;LICOROSOS;1991;11500
+derivados_compostos;COMPOSTOS;1991;0
+derivados_jeropiga;JEROPIGA;1991;0
+derivados_filtrado;FILTRADO;1991;18000
+derivados_frisante;FRISANTE;1991;0
+derivados_vinho_leve;VINHO LEVE;1991;192800
+derivados_vinho_licoroso;VINHO LICOROSO;1991;0
+derivados_brandy;BRANDY;1991;0
+derivados_destilado;DESTILADO;1991;0
+derivados_bagaceira;BAGACEIRA;1991;15000
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1991;0
+derivados_vinagre;VINAGRE;1991;0
+derivados_borra_liquida;BORRA LÍQUIDA;1991;1649130
+derivados_borra_seca;BORRA SECA;1991;0
+derivados_vinho_composto;VINHO COMPOSTO;1991;0
+derivados_pisco;PISCO;1991;0
+derivados_vinho_organico;VINHO ORGÂNICO;1991;137000
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1991;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1991;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1991;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1991;0
+derivados_outros_derivados;OUTROS DERIVADOS;1991;0
+vinho_de_mesa;VINHO DE MESA;1992;163248419
+vinho_mesa_tinto;TINTO;1992;118638894
+vinho_mesa_branco;BRANCO;1992;25446255
+vinho_mesa_rosado;ROSADO;1992;19163270
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1992;52612778
+vinho_viniferas_tinto;TINTO;1992;13449911
+vinho_viniferas_branco;BRANCO;1992;38856367
+vinho_viniferas_rosado;ROSADO;1992;306500
+suco;SUCO;1992;10797624
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1992;4033698
+suco_concentrado;SUCO DE UVA CONCENTRADO;1992;6763926
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1992;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1992;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1992;0
+derivados;DERIVADOS;1992;29469940
+derivados_espumante;ESPUMANTE;1992;11000
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1992;0
+derivados_base_espumante;BASE ESPUMANTE;1992;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1992;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1992;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1992;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1992;0
+derivados_polpa_de_uva;POLPA DE UVA;1992;0
+derivados_mosto_simples;MOSTO SIMPLES;1992;27491540
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1992;288900
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1992;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1992;0
+derivados_mistelas;MISTELAS;1992;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1992;0
+derivados_licorosos;LICOROSOS;1992;7800
+derivados_compostos;COMPOSTOS;1992;0
+derivados_jeropiga;JEROPIGA;1992;60000
+derivados_filtrado;FILTRADO;1992;11000
+derivados_frisante;FRISANTE;1992;0
+derivados_vinho_leve;VINHO LEVE;1992;144500
+derivados_vinho_licoroso;VINHO LICOROSO;1992;0
+derivados_brandy;BRANDY;1992;0
+derivados_destilado;DESTILADO;1992;0
+derivados_bagaceira;BAGACEIRA;1992;10000
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1992;0
+derivados_vinagre;VINAGRE;1992;45000
+derivados_borra_liquida;BORRA LÍQUIDA;1992;1400200
+derivados_borra_seca;BORRA SECA;1992;0
+derivados_vinho_composto;VINHO COMPOSTO;1992;0
+derivados_pisco;PISCO;1992;0
+derivados_vinho_organico;VINHO ORGÂNICO;1992;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1992;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1992;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1992;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1992;0
+derivados_outros_derivados;OUTROS DERIVADOS;1992;0
+vinho_de_mesa;VINHO DE MESA;1993;171754995
+vinho_mesa_tinto;TINTO;1993;125172218
+vinho_mesa_branco;BRANCO;1993;31986075
+vinho_mesa_rosado;ROSADO;1993;14596702
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1993;53054225
+vinho_viniferas_tinto;TINTO;1993;12119485
+vinho_viniferas_branco;BRANCO;1993;40415898
+vinho_viniferas_rosado;ROSADO;1993;518842
+suco;SUCO;1993;12031753
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1993;3800800
+suco_concentrado;SUCO DE UVA CONCENTRADO;1993;8230953
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1993;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1993;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1993;0
+derivados;DERIVADOS;1993;17573100
+derivados_espumante;ESPUMANTE;1993;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1993;0
+derivados_base_espumante;BASE ESPUMANTE;1993;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1993;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1993;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1993;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1993;0
+derivados_polpa_de_uva;POLPA DE UVA;1993;0
+derivados_mosto_simples;MOSTO SIMPLES;1993;17218000
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1993;355100
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1993;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1993;0
+derivados_mistelas;MISTELAS;1993;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1993;0
+derivados_licorosos;LICOROSOS;1993;0
+derivados_compostos;COMPOSTOS;1993;0
+derivados_jeropiga;JEROPIGA;1993;0
+derivados_filtrado;FILTRADO;1993;0
+derivados_frisante;FRISANTE;1993;0
+derivados_vinho_leve;VINHO LEVE;1993;0
+derivados_vinho_licoroso;VINHO LICOROSO;1993;0
+derivados_brandy;BRANDY;1993;0
+derivados_destilado;DESTILADO;1993;0
+derivados_bagaceira;BAGACEIRA;1993;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1993;0
+derivados_vinagre;VINAGRE;1993;0
+derivados_borra_liquida;BORRA LÍQUIDA;1993;0
+derivados_borra_seca;BORRA SECA;1993;0
+derivados_vinho_composto;VINHO COMPOSTO;1993;0
+derivados_pisco;PISCO;1993;0
+derivados_vinho_organico;VINHO ORGÂNICO;1993;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1993;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1993;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1993;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1993;0
+derivados_outros_derivados;OUTROS DERIVADOS;1993;0
+vinho_de_mesa;VINHO DE MESA;1994;202073263
+vinho_mesa_tinto;TINTO;1994;161479717
+vinho_mesa_branco;BRANCO;1994;28291853
+vinho_mesa_rosado;ROSADO;1994;12301693
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1994;58733741
+vinho_viniferas_tinto;TINTO;1994;15646861
+vinho_viniferas_branco;BRANCO;1994;42419680
+vinho_viniferas_rosado;ROSADO;1994;667200
+suco;SUCO;1994;13343721
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1994;3884000
+suco_concentrado;SUCO DE UVA CONCENTRADO;1994;9459721
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1994;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1994;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1994;0
+derivados;DERIVADOS;1994;16053642
+derivados_espumante;ESPUMANTE;1994;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1994;0
+derivados_base_espumante;BASE ESPUMANTE;1994;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1994;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1994;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1994;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1994;0
+derivados_polpa_de_uva;POLPA DE UVA;1994;0
+derivados_mosto_simples;MOSTO SIMPLES;1994;10972700
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1994;335500
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1994;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1994;0
+derivados_mistelas;MISTELAS;1994;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1994;0
+derivados_licorosos;LICOROSOS;1994;0
+derivados_compostos;COMPOSTOS;1994;0
+derivados_jeropiga;JEROPIGA;1994;0
+derivados_filtrado;FILTRADO;1994;0
+derivados_frisante;FRISANTE;1994;0
+derivados_vinho_leve;VINHO LEVE;1994;0
+derivados_vinho_licoroso;VINHO LICOROSO;1994;0
+derivados_brandy;BRANDY;1994;0
+derivados_destilado;DESTILADO;1994;0
+derivados_bagaceira;BAGACEIRA;1994;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1994;0
+derivados_vinagre;VINAGRE;1994;0
+derivados_borra_liquida;BORRA LÍQUIDA;1994;0
+derivados_borra_seca;BORRA SECA;1994;0
+derivados_vinho_composto;VINHO COMPOSTO;1994;0
+derivados_pisco;PISCO;1994;0
+derivados_vinho_organico;VINHO ORGÂNICO;1994;4745442
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1994;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1994;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1994;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1994;0
+derivados_outros_derivados;OUTROS DERIVADOS;1994;0
+vinho_de_mesa;VINHO DE MESA;1995;214788304
+vinho_mesa_tinto;TINTO;1995;167174017
+vinho_mesa_branco;BRANCO;1995;15472732
+vinho_mesa_rosado;ROSADO;1995;32141555
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1995;47126229
+vinho_viniferas_tinto;TINTO;1995;11924291
+vinho_viniferas_branco;BRANCO;1995;34209738
+vinho_viniferas_rosado;ROSADO;1995;992200
+suco;SUCO;1995;12893959
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1995;4123776
+suco_concentrado;SUCO DE UVA CONCENTRADO;1995;8770183
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1995;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1995;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1995;0
+derivados;DERIVADOS;1995;23637100
+derivados_espumante;ESPUMANTE;1995;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1995;0
+derivados_base_espumante;BASE ESPUMANTE;1995;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1995;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1995;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1995;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1995;0
+derivados_polpa_de_uva;POLPA DE UVA;1995;0
+derivados_mosto_simples;MOSTO SIMPLES;1995;20917600
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1995;265000
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1995;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1995;0
+derivados_mistelas;MISTELAS;1995;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1995;0
+derivados_licorosos;LICOROSOS;1995;0
+derivados_compostos;COMPOSTOS;1995;0
+derivados_jeropiga;JEROPIGA;1995;0
+derivados_filtrado;FILTRADO;1995;0
+derivados_frisante;FRISANTE;1995;0
+derivados_vinho_leve;VINHO LEVE;1995;0
+derivados_vinho_licoroso;VINHO LICOROSO;1995;0
+derivados_brandy;BRANDY;1995;0
+derivados_destilado;DESTILADO;1995;0
+derivados_bagaceira;BAGACEIRA;1995;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1995;0
+derivados_vinagre;VINAGRE;1995;0
+derivados_borra_liquida;BORRA LÍQUIDA;1995;0
+derivados_borra_seca;BORRA SECA;1995;0
+derivados_vinho_composto;VINHO COMPOSTO;1995;0
+derivados_pisco;PISCO;1995;0
+derivados_vinho_organico;VINHO ORGÂNICO;1995;2454500
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1995;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1995;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1995;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1995;0
+derivados_outros_derivados;OUTROS DERIVADOS;1995;0
+vinho_de_mesa;VINHO DE MESA;1996;152917771
+vinho_mesa_tinto;TINTO;1996;115896909
+vinho_mesa_branco;BRANCO;1996;24073622
+vinho_mesa_rosado;ROSADO;1996;12947240
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1996;45325058
+vinho_viniferas_tinto;TINTO;1996;12819866
+vinho_viniferas_branco;BRANCO;1996;31893892
+vinho_viniferas_rosado;ROSADO;1996;611300
+suco;SUCO;1996;9189900
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1996;2407900
+suco_concentrado;SUCO DE UVA CONCENTRADO;1996;6782000
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1996;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1996;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1996;0
+derivados;DERIVADOS;1996;12754798
+derivados_espumante;ESPUMANTE;1996;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1996;0
+derivados_base_espumante;BASE ESPUMANTE;1996;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1996;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1996;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1996;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1996;0
+derivados_polpa_de_uva;POLPA DE UVA;1996;0
+derivados_mosto_simples;MOSTO SIMPLES;1996;12111372
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1996;292000
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1996;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1996;0
+derivados_mistelas;MISTELAS;1996;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1996;0
+derivados_licorosos;LICOROSOS;1996;0
+derivados_compostos;COMPOSTOS;1996;0
+derivados_jeropiga;JEROPIGA;1996;0
+derivados_filtrado;FILTRADO;1996;0
+derivados_frisante;FRISANTE;1996;0
+derivados_vinho_leve;VINHO LEVE;1996;0
+derivados_vinho_licoroso;VINHO LICOROSO;1996;0
+derivados_brandy;BRANDY;1996;0
+derivados_destilado;DESTILADO;1996;0
+derivados_bagaceira;BAGACEIRA;1996;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1996;0
+derivados_vinagre;VINAGRE;1996;0
+derivados_borra_liquida;BORRA LÍQUIDA;1996;0
+derivados_borra_seca;BORRA SECA;1996;0
+derivados_vinho_composto;VINHO COMPOSTO;1996;0
+derivados_pisco;PISCO;1996;0
+derivados_vinho_organico;VINHO ORGÂNICO;1996;351426
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1996;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1996;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1996;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1996;0
+derivados_outros_derivados;OUTROS DERIVADOS;1996;0
+vinho_de_mesa;VINHO DE MESA;1997;182816047
+vinho_mesa_tinto;TINTO;1997;116458841
+vinho_mesa_branco;BRANCO;1997;41842945
+vinho_mesa_rosado;ROSADO;1997;24514261
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1997;46988414
+vinho_viniferas_tinto;TINTO;1997;12590647
+vinho_viniferas_branco;BRANCO;1997;33792167
+vinho_viniferas_rosado;ROSADO;1997;605600
+suco;SUCO;1997;13409014
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1997;2884969
+suco_concentrado;SUCO DE UVA CONCENTRADO;1997;10524045
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1997;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1997;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1997;0
+derivados;DERIVADOS;1997;24553317
+derivados_espumante;ESPUMANTE;1997;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1997;0
+derivados_base_espumante;BASE ESPUMANTE;1997;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1997;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1997;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1997;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1997;0
+derivados_polpa_de_uva;POLPA DE UVA;1997;0
+derivados_mosto_simples;MOSTO SIMPLES;1997;19066000
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1997;490000
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1997;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1997;0
+derivados_mistelas;MISTELAS;1997;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1997;0
+derivados_licorosos;LICOROSOS;1997;0
+derivados_compostos;COMPOSTOS;1997;0
+derivados_jeropiga;JEROPIGA;1997;0
+derivados_filtrado;FILTRADO;1997;0
+derivados_frisante;FRISANTE;1997;0
+derivados_vinho_leve;VINHO LEVE;1997;0
+derivados_vinho_licoroso;VINHO LICOROSO;1997;0
+derivados_brandy;BRANDY;1997;0
+derivados_destilado;DESTILADO;1997;0
+derivados_bagaceira;BAGACEIRA;1997;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1997;0
+derivados_vinagre;VINAGRE;1997;0
+derivados_borra_liquida;BORRA LÍQUIDA;1997;0
+derivados_borra_seca;BORRA SECA;1997;0
+derivados_vinho_composto;VINHO COMPOSTO;1997;0
+derivados_pisco;PISCO;1997;0
+derivados_vinho_organico;VINHO ORGÂNICO;1997;4997317
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1997;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1997;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1997;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1997;0
+derivados_outros_derivados;OUTROS DERIVADOS;1997;0
+vinho_de_mesa;VINHO DE MESA;1998;150814943
+vinho_mesa_tinto;TINTO;1998;102127865
+vinho_mesa_branco;BRANCO;1998;32140249
+vinho_mesa_rosado;ROSADO;1998;16546829
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1998;33898630
+vinho_viniferas_tinto;TINTO;1998;8716140
+vinho_viniferas_branco;BRANCO;1998;24384090
+vinho_viniferas_rosado;ROSADO;1998;798400
+suco;SUCO;1998;13904186
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1998;3904186
+suco_concentrado;SUCO DE UVA CONCENTRADO;1998;10000000
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1998;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1998;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1998;0
+derivados;DERIVADOS;1998;14693351
+derivados_espumante;ESPUMANTE;1998;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1998;0
+derivados_base_espumante;BASE ESPUMANTE;1998;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1998;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1998;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1998;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1998;0
+derivados_polpa_de_uva;POLPA DE UVA;1998;0
+derivados_mosto_simples;MOSTO SIMPLES;1998;11046570
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1998;381000
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1998;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1998;0
+derivados_mistelas;MISTELAS;1998;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1998;0
+derivados_licorosos;LICOROSOS;1998;0
+derivados_compostos;COMPOSTOS;1998;0
+derivados_jeropiga;JEROPIGA;1998;0
+derivados_filtrado;FILTRADO;1998;0
+derivados_frisante;FRISANTE;1998;0
+derivados_vinho_leve;VINHO LEVE;1998;0
+derivados_vinho_licoroso;VINHO LICOROSO;1998;0
+derivados_brandy;BRANDY;1998;0
+derivados_destilado;DESTILADO;1998;0
+derivados_bagaceira;BAGACEIRA;1998;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1998;0
+derivados_vinagre;VINAGRE;1998;0
+derivados_borra_liquida;BORRA LÍQUIDA;1998;0
+derivados_borra_seca;BORRA SECA;1998;0
+derivados_vinho_composto;VINHO COMPOSTO;1998;0
+derivados_pisco;PISCO;1998;0
+derivados_vinho_organico;VINHO ORGÂNICO;1998;3265781
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1998;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1998;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1998;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1998;0
+derivados_outros_derivados;OUTROS DERIVADOS;1998;0
+vinho_de_mesa;VINHO DE MESA;1999;226520776
+vinho_mesa_tinto;TINTO;1999;168149414
+vinho_mesa_branco;BRANCO;1999;42528150
+vinho_mesa_rosado;ROSADO;1999;15843212
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);1999;45830497
+vinho_viniferas_tinto;TINTO;1999;14640657
+vinho_viniferas_branco;BRANCO;1999;30674840
+vinho_viniferas_rosado;ROSADO;1999;515000
+suco;SUCO;1999;15532303
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;1999;4132303
+suco_concentrado;SUCO DE UVA CONCENTRADO;1999;11400000
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;1999;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;1999;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;1999;0
+derivados;DERIVADOS;1999;23422306
+derivados_espumante;ESPUMANTE;1999;6900
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;1999;0
+derivados_base_espumante;BASE ESPUMANTE;1999;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;1999;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;1999;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;1999;0
+derivados_bebida_de_uva;BEBIDA DE UVA;1999;0
+derivados_polpa_de_uva;POLPA DE UVA;1999;0
+derivados_mosto_simples;MOSTO SIMPLES;1999;14359734
+derivados_mosto_concentrado;MOSTO CONCENTRADO;1999;411354
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;1999;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;1999;0
+derivados_mistelas;MISTELAS;1999;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;1999;0
+derivados_licorosos;LICOROSOS;1999;44740
+derivados_compostos;COMPOSTOS;1999;0
+derivados_jeropiga;JEROPIGA;1999;0
+derivados_filtrado;FILTRADO;1999;0
+derivados_frisante;FRISANTE;1999;0
+derivados_vinho_leve;VINHO LEVE;1999;0
+derivados_vinho_licoroso;VINHO LICOROSO;1999;0
+derivados_brandy;BRANDY;1999;0
+derivados_destilado;DESTILADO;1999;7350
+derivados_bagaceira;BAGACEIRA;1999;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;1999;0
+derivados_vinagre;VINAGRE;1999;0
+derivados_borra_liquida;BORRA LÍQUIDA;1999;0
+derivados_borra_seca;BORRA SECA;1999;0
+derivados_vinho_composto;VINHO COMPOSTO;1999;0
+derivados_pisco;PISCO;1999;0
+derivados_vinho_organico;VINHO ORGÂNICO;1999;8592228
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;1999;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;1999;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;1999;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;1999;0
+derivados_outros_derivados;OUTROS DERIVADOS;1999;0
+vinho_de_mesa;VINHO DE MESA;2000;273025576
+vinho_mesa_tinto;TINTO;2000;208242670
+vinho_mesa_branco;BRANCO;2000;44902276
+vinho_mesa_rosado;ROSADO;2000;19880630
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2000;56209739
+vinho_viniferas_tinto;TINTO;2000;18545613
+vinho_viniferas_branco;BRANCO;2000;36955126
+vinho_viniferas_rosado;ROSADO;2000;709000
+suco;SUCO;2000;17722779
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2000;3546779
+suco_concentrado;SUCO DE UVA CONCENTRADO;2000;14176000
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2000;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2000;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2000;0
+derivados;DERIVADOS;2000;25959016
+derivados_espumante;ESPUMANTE;2000;71410
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2000;0
+derivados_base_espumante;BASE ESPUMANTE;2000;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2000;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2000;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2000;0
+derivados_bebida_de_uva;BEBIDA DE UVA;2000;0
+derivados_polpa_de_uva;POLPA DE UVA;2000;0
+derivados_mosto_simples;MOSTO SIMPLES;2000;16192018
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2000;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2000;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2000;0
+derivados_mistelas;MISTELAS;2000;33000
+derivados_nectar_de_uva;NÉCTAR DE UVA;2000;0
+derivados_licorosos;LICOROSOS;2000;21000
+derivados_compostos;COMPOSTOS;2000;0
+derivados_jeropiga;JEROPIGA;2000;0
+derivados_filtrado;FILTRADO;2000;0
+derivados_frisante;FRISANTE;2000;0
+derivados_vinho_leve;VINHO LEVE;2000;0
+derivados_vinho_licoroso;VINHO LICOROSO;2000;0
+derivados_brandy;BRANDY;2000;0
+derivados_destilado;DESTILADO;2000;1960
+derivados_bagaceira;BAGACEIRA;2000;12700
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2000;0
+derivados_vinagre;VINAGRE;2000;0
+derivados_borra_liquida;BORRA LÍQUIDA;2000;9626928
+derivados_borra_seca;BORRA SECA;2000;0
+derivados_vinho_composto;VINHO COMPOSTO;2000;0
+derivados_pisco;PISCO;2000;0
+derivados_vinho_organico;VINHO ORGÂNICO;2000;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2000;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2000;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2000;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2000;0
+derivados_outros_derivados;OUTROS DERIVADOS;2000;0
+vinho_de_mesa;VINHO DE MESA;2001;228932458
+vinho_mesa_tinto;TINTO;2001;175267437
+vinho_mesa_branco;BRANCO;2001;44322836
+vinho_mesa_rosado;ROSADO;2001;9342185
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2001;34159277
+vinho_viniferas_tinto;TINTO;2001;13587683
+vinho_viniferas_branco;BRANCO;2001;20393594
+vinho_viniferas_rosado;ROSADO;2001;178000
+suco;SUCO;2001;17987182
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2001;5196430
+suco_concentrado;SUCO DE UVA CONCENTRADO;2001;12790752
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2001;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2001;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2001;0
+derivados;DERIVADOS;2001;15498842
+derivados_espumante;ESPUMANTE;2001;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2001;276099
+derivados_base_espumante;BASE ESPUMANTE;2001;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2001;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2001;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2001;0
+derivados_bebida_de_uva;BEBIDA DE UVA;2001;0
+derivados_polpa_de_uva;POLPA DE UVA;2001;0
+derivados_mosto_simples;MOSTO SIMPLES;2001;6977231
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2001;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2001;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2001;0
+derivados_mistelas;MISTELAS;2001;15000
+derivados_nectar_de_uva;NÉCTAR DE UVA;2001;0
+derivados_licorosos;LICOROSOS;2001;4000
+derivados_compostos;COMPOSTOS;2001;0
+derivados_jeropiga;JEROPIGA;2001;0
+derivados_filtrado;FILTRADO;2001;0
+derivados_frisante;FRISANTE;2001;0
+derivados_vinho_leve;VINHO LEVE;2001;0
+derivados_vinho_licoroso;VINHO LICOROSO;2001;0
+derivados_brandy;BRANDY;2001;0
+derivados_destilado;DESTILADO;2001;0
+derivados_bagaceira;BAGACEIRA;2001;10350
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2001;0
+derivados_vinagre;VINAGRE;2001;0
+derivados_borra_liquida;BORRA LÍQUIDA;2001;8216162
+derivados_borra_seca;BORRA SECA;2001;0
+derivados_vinho_composto;VINHO COMPOSTO;2001;0
+derivados_pisco;PISCO;2001;0
+derivados_vinho_organico;VINHO ORGÂNICO;2001;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2001;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2001;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2001;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2001;0
+derivados_outros_derivados;OUTROS DERIVADOS;2001;0
+vinho_de_mesa;VINHO DE MESA;2002;259589740
+vinho_mesa_tinto;TINTO;2002;215892333
+vinho_mesa_branco;BRANCO;2002;35329657
+vinho_mesa_rosado;ROSADO;2002;8367750
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2002;31655226
+vinho_viniferas_tinto;TINTO;2002;13619033
+vinho_viniferas_branco;BRANCO;2002;17911689
+vinho_viniferas_rosado;ROSADO;2002;124504
+suco;SUCO;2002;20228691
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2002;5505889
+suco_concentrado;SUCO DE UVA CONCENTRADO;2002;14722802
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2002;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2002;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2002;0
+derivados;DERIVADOS;2002;28122348
+derivados_espumante;ESPUMANTE;2002;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2002;0
+derivados_base_espumante;BASE ESPUMANTE;2002;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2002;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2002;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2002;0
+derivados_bebida_de_uva;BEBIDA DE UVA;2002;0
+derivados_polpa_de_uva;POLPA DE UVA;2002;0
+derivados_mosto_simples;MOSTO SIMPLES;2002;12875000
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2002;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2002;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2002;0
+derivados_mistelas;MISTELAS;2002;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;2002;0
+derivados_licorosos;LICOROSOS;2002;0
+derivados_compostos;COMPOSTOS;2002;0
+derivados_jeropiga;JEROPIGA;2002;0
+derivados_filtrado;FILTRADO;2002;0
+derivados_frisante;FRISANTE;2002;0
+derivados_vinho_leve;VINHO LEVE;2002;0
+derivados_vinho_licoroso;VINHO LICOROSO;2002;0
+derivados_brandy;BRANDY;2002;0
+derivados_destilado;DESTILADO;2002;0
+derivados_bagaceira;BAGACEIRA;2002;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2002;0
+derivados_vinagre;VINAGRE;2002;0
+derivados_borra_liquida;BORRA LÍQUIDA;2002;8541861
+derivados_borra_seca;BORRA SECA;2002;0
+derivados_vinho_composto;VINHO COMPOSTO;2002;0
+derivados_pisco;PISCO;2002;0
+derivados_vinho_organico;VINHO ORGÂNICO;2002;6705487
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2002;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2002;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2002;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2002;0
+derivados_outros_derivados;OUTROS DERIVADOS;2002;0
+vinho_de_mesa;VINHO DE MESA;2003;202545724
+vinho_mesa_tinto;TINTO;2003;155513687
+vinho_mesa_branco;BRANCO;2003;40861639
+vinho_mesa_rosado;ROSADO;2003;6170398
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2003;29551457
+vinho_viniferas_tinto;TINTO;2003;15357576
+vinho_viniferas_branco;BRANCO;2003;14058481
+vinho_viniferas_rosado;ROSADO;2003;135400
+suco;SUCO;2003;12420745
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2003;1372381
+suco_concentrado;SUCO DE UVA CONCENTRADO;2003;11048364
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2003;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2003;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2003;0
+derivados;DERIVADOS;2003;24108352
+derivados_espumante;ESPUMANTE;2003;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2003;147600
+derivados_base_espumante;BASE ESPUMANTE;2003;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2003;0
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2003;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2003;0
+derivados_bebida_de_uva;BEBIDA DE UVA;2003;0
+derivados_polpa_de_uva;POLPA DE UVA;2003;0
+derivados_mosto_simples;MOSTO SIMPLES;2003;13172480
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2003;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2003;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2003;0
+derivados_mistelas;MISTELAS;2003;5500
+derivados_nectar_de_uva;NÉCTAR DE UVA;2003;0
+derivados_licorosos;LICOROSOS;2003;34420
+derivados_compostos;COMPOSTOS;2003;0
+derivados_jeropiga;JEROPIGA;2003;0
+derivados_filtrado;FILTRADO;2003;0
+derivados_frisante;FRISANTE;2003;0
+derivados_vinho_leve;VINHO LEVE;2003;11000
+derivados_vinho_licoroso;VINHO LICOROSO;2003;0
+derivados_brandy;BRANDY;2003;0
+derivados_destilado;DESTILADO;2003;0
+derivados_bagaceira;BAGACEIRA;2003;26800
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2003;0
+derivados_vinagre;VINAGRE;2003;0
+derivados_borra_liquida;BORRA LÍQUIDA;2003;3126172
+derivados_borra_seca;BORRA SECA;2003;0
+derivados_vinho_composto;VINHO COMPOSTO;2003;0
+derivados_pisco;PISCO;2003;0
+derivados_vinho_organico;VINHO ORGÂNICO;2003;7584380
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2003;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2003;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2003;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2003;0
+derivados_outros_derivados;OUTROS DERIVADOS;2003;0
+vinho_de_mesa;VINHO DE MESA;2004;313962284
+vinho_mesa_tinto;TINTO;2004;254172425
+vinho_mesa_branco;BRANCO;2004;51719967
+vinho_mesa_rosado;ROSADO;2004;8069892
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2004;42902608
+vinho_viniferas_tinto;TINTO;2004;23062182
+vinho_viniferas_branco;BRANCO;2004;19803647
+vinho_viniferas_rosado;ROSADO;2004;36779
+suco;SUCO;2004;24078112
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2004;6222380
+suco_concentrado;SUCO DE UVA CONCENTRADO;2004;17855732
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2004;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2004;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2004;0
+derivados;DERIVADOS;2004;28471858
+derivados_espumante;ESPUMANTE;2004;3999
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2004;204000
+derivados_base_espumante;BASE ESPUMANTE;2004;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2004;98900
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2004;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2004;0
+derivados_bebida_de_uva;BEBIDA DE UVA;2004;0
+derivados_polpa_de_uva;POLPA DE UVA;2004;890562
+derivados_mosto_simples;MOSTO SIMPLES;2004;26067525
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2004;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2004;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2004;0
+derivados_mistelas;MISTELAS;2004;11500
+derivados_nectar_de_uva;NÉCTAR DE UVA;2004;0
+derivados_licorosos;LICOROSOS;2004;0
+derivados_compostos;COMPOSTOS;2004;0
+derivados_jeropiga;JEROPIGA;2004;0
+derivados_filtrado;FILTRADO;2004;0
+derivados_frisante;FRISANTE;2004;0
+derivados_vinho_leve;VINHO LEVE;2004;6000
+derivados_vinho_licoroso;VINHO LICOROSO;2004;77800
+derivados_brandy;BRANDY;2004;0
+derivados_destilado;DESTILADO;2004;1000
+derivados_bagaceira;BAGACEIRA;2004;66082
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2004;0
+derivados_vinagre;VINAGRE;2004;0
+derivados_borra_liquida;BORRA LÍQUIDA;2004;1044490
+derivados_borra_seca;BORRA SECA;2004;0
+derivados_vinho_composto;VINHO COMPOSTO;2004;0
+derivados_pisco;PISCO;2004;0
+derivados_vinho_organico;VINHO ORGÂNICO;2004;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2004;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2004;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2004;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2004;0
+derivados_outros_derivados;OUTROS DERIVADOS;2004;0
+vinho_de_mesa;VINHO DE MESA;2005;226080432
+vinho_mesa_tinto;TINTO;2005;180698666
+vinho_mesa_branco;BRANCO;2005;39212146
+vinho_mesa_rosado;ROSADO;2005;6169620
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2005;45453898
+vinho_viniferas_tinto;TINTO;2005;25409805
+vinho_viniferas_branco;BRANCO;2005;20012363
+vinho_viniferas_rosado;ROSADO;2005;31730
+suco;SUCO;2005;27960596
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2005;7103175
+suco_concentrado;SUCO DE UVA CONCENTRADO;2005;19513244
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2005;1344177
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2005;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2005;0
+derivados;DERIVADOS;2005;25541605
+derivados_espumante;ESPUMANTE;2005;1920
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2005;514480
+derivados_base_espumante;BASE ESPUMANTE;2005;239000
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2005;212400
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2005;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2005;0
+derivados_bebida_de_uva;BEBIDA DE UVA;2005;0
+derivados_polpa_de_uva;POLPA DE UVA;2005;1350672
+derivados_mosto_simples;MOSTO SIMPLES;2005;22429791
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2005;83116
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2005;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2005;0
+derivados_mistelas;MISTELAS;2005;9960
+derivados_nectar_de_uva;NÉCTAR DE UVA;2005;0
+derivados_licorosos;LICOROSOS;2005;0
+derivados_compostos;COMPOSTOS;2005;0
+derivados_jeropiga;JEROPIGA;2005;0
+derivados_filtrado;FILTRADO;2005;0
+derivados_frisante;FRISANTE;2005;0
+derivados_vinho_leve;VINHO LEVE;2005;16500
+derivados_vinho_licoroso;VINHO LICOROSO;2005;125700
+derivados_brandy;BRANDY;2005;0
+derivados_destilado;DESTILADO;2005;0
+derivados_bagaceira;BAGACEIRA;2005;32050
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2005;0
+derivados_vinagre;VINAGRE;2005;0
+derivados_borra_liquida;BORRA LÍQUIDA;2005;526016
+derivados_borra_seca;BORRA SECA;2005;0
+derivados_vinho_composto;VINHO COMPOSTO;2005;0
+derivados_pisco;PISCO;2005;0
+derivados_vinho_organico;VINHO ORGÂNICO;2005;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2005;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2005;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2005;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2005;0
+derivados_outros_derivados;OUTROS DERIVADOS;2005;0
+vinho_de_mesa;VINHO DE MESA;2006;185100887
+vinho_mesa_tinto;TINTO;2006;149552555
+vinho_mesa_branco;BRANCO;2006;31738390
+vinho_mesa_rosado;ROSADO;2006;3809942
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2006;32168977
+vinho_viniferas_tinto;TINTO;2006;18868108
+vinho_viniferas_branco;BRANCO;2006;13249969
+vinho_viniferas_rosado;ROSADO;2006;50900
+suco;SUCO;2006;31361096
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2006;13946491
+suco_concentrado;SUCO DE UVA CONCENTRADO;2006;17414605
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2006;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2006;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2006;0
+derivados;DERIVADOS;2006;27752531
+derivados_espumante;ESPUMANTE;2006;26600
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2006;320514
+derivados_base_espumante;BASE ESPUMANTE;2006;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2006;362589
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2006;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2006;0
+derivados_bebida_de_uva;BEBIDA DE UVA;2006;0
+derivados_polpa_de_uva;POLPA DE UVA;2006;1006000
+derivados_mosto_simples;MOSTO SIMPLES;2006;25903812
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2006;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2006;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2006;0
+derivados_mistelas;MISTELAS;2006;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;2006;0
+derivados_licorosos;LICOROSOS;2006;0
+derivados_compostos;COMPOSTOS;2006;0
+derivados_jeropiga;JEROPIGA;2006;0
+derivados_filtrado;FILTRADO;2006;0
+derivados_frisante;FRISANTE;2006;0
+derivados_vinho_leve;VINHO LEVE;2006;0
+derivados_vinho_licoroso;VINHO LICOROSO;2006;28500
+derivados_brandy;BRANDY;2006;0
+derivados_destilado;DESTILADO;2006;0
+derivados_bagaceira;BAGACEIRA;2006;24250
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2006;0
+derivados_vinagre;VINAGRE;2006;0
+derivados_borra_liquida;BORRA LÍQUIDA;2006;57333
+derivados_borra_seca;BORRA SECA;2006;0
+derivados_vinho_composto;VINHO COMPOSTO;2006;0
+derivados_pisco;PISCO;2006;0
+derivados_vinho_organico;VINHO ORGÂNICO;2006;22933
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2006;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2006;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2006;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2006;0
+derivados_outros_derivados;OUTROS DERIVADOS;2006;0
+vinho_de_mesa;VINHO DE MESA;2007;275287908
+vinho_mesa_tinto;TINTO;2007;228156220
+vinho_mesa_branco;BRANCO;2007;42118552
+vinho_mesa_rosado;ROSADO;2007;5013136
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2007;43176484
+vinho_viniferas_tinto;TINTO;2007;24786071
+vinho_viniferas_branco;BRANCO;2007;17598428
+vinho_viniferas_rosado;ROSADO;2007;791985
+suco;SUCO;2007;30136844
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2007;10147037
+suco_concentrado;SUCO DE UVA CONCENTRADO;2007;19280709
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2007;709098
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2007;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2007;0
+derivados;DERIVADOS;2007;42011603
+derivados_espumante;ESPUMANTE;2007;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2007;589332
+derivados_base_espumante;BASE ESPUMANTE;2007;78250
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2007;111200
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2007;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2007;0
+derivados_bebida_de_uva;BEBIDA DE UVA;2007;0
+derivados_polpa_de_uva;POLPA DE UVA;2007;1083202
+derivados_mosto_simples;MOSTO SIMPLES;2007;37558010
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2007;110000
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2007;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2007;0
+derivados_mistelas;MISTELAS;2007;1900
+derivados_nectar_de_uva;NÉCTAR DE UVA;2007;0
+derivados_licorosos;LICOROSOS;2007;0
+derivados_compostos;COMPOSTOS;2007;0
+derivados_jeropiga;JEROPIGA;2007;0
+derivados_filtrado;FILTRADO;2007;0
+derivados_frisante;FRISANTE;2007;0
+derivados_vinho_leve;VINHO LEVE;2007;0
+derivados_vinho_licoroso;VINHO LICOROSO;2007;27926
+derivados_brandy;BRANDY;2007;0
+derivados_destilado;DESTILADO;2007;0
+derivados_bagaceira;BAGACEIRA;2007;48500
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2007;0
+derivados_vinagre;VINAGRE;2007;0
+derivados_borra_liquida;BORRA LÍQUIDA;2007;2095873
+derivados_borra_seca;BORRA SECA;2007;0
+derivados_vinho_composto;VINHO COMPOSTO;2007;0
+derivados_pisco;PISCO;2007;0
+derivados_vinho_organico;VINHO ORGÂNICO;2007;307410
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2007;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2007;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2007;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2007;0
+derivados_outros_derivados;OUTROS DERIVADOS;2007;0
+vinho_de_mesa;VINHO DE MESA;2008;287506811
+vinho_mesa_tinto;TINTO;2008;241057928
+vinho_mesa_branco;BRANCO;2008;42942053
+vinho_mesa_rosado;ROSADO;2008;3506830
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2008;47334501
+vinho_viniferas_tinto;TINTO;2008;27583032
+vinho_viniferas_branco;BRANCO;2008;18812571
+vinho_viniferas_rosado;ROSADO;2008;938898
+suco;SUCO;2008;35647994
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2008;11817941
+suco_concentrado;SUCO DE UVA CONCENTRADO;2008;23014646
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2008;815407
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2008;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2008;0
+derivados;DERIVADOS;2008;59622293
+derivados_espumante;ESPUMANTE;2008;88690
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2008;1113462
+derivados_base_espumante;BASE ESPUMANTE;2008;220120
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2008;474721
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2008;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2008;0
+derivados_bebida_de_uva;BEBIDA DE UVA;2008;1082700
+derivados_polpa_de_uva;POLPA DE UVA;2008;1188260
+derivados_mosto_simples;MOSTO SIMPLES;2008;53683415
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2008;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2008;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2008;0
+derivados_mistelas;MISTELAS;2008;2000
+derivados_nectar_de_uva;NÉCTAR DE UVA;2008;0
+derivados_licorosos;LICOROSOS;2008;0
+derivados_compostos;COMPOSTOS;2008;0
+derivados_jeropiga;JEROPIGA;2008;0
+derivados_filtrado;FILTRADO;2008;0
+derivados_frisante;FRISANTE;2008;0
+derivados_vinho_leve;VINHO LEVE;2008;0
+derivados_vinho_licoroso;VINHO LICOROSO;2008;65650
+derivados_brandy;BRANDY;2008;0
+derivados_destilado;DESTILADO;2008;0
+derivados_bagaceira;BAGACEIRA;2008;8500
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2008;0
+derivados_vinagre;VINAGRE;2008;0
+derivados_borra_liquida;BORRA LÍQUIDA;2008;1679775
+derivados_borra_seca;BORRA SECA;2008;0
+derivados_vinho_composto;VINHO COMPOSTO;2008;0
+derivados_pisco;PISCO;2008;0
+derivados_vinho_organico;VINHO ORGÂNICO;2008;15000
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2008;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2008;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2008;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2008;0
+derivados_outros_derivados;OUTROS DERIVADOS;2008;0
+vinho_de_mesa;VINHO DE MESA;2009;205418206
+vinho_mesa_tinto;TINTO;2009;164143454
+vinho_mesa_branco;BRANCO;2009;39211278
+vinho_mesa_rosado;ROSADO;2009;2063474
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2009;39900568
+vinho_viniferas_tinto;TINTO;2009;18209043
+vinho_viniferas_branco;BRANCO;2009;21366975
+vinho_viniferas_rosado;ROSADO;2009;324550
+suco;SUCO;2009;39715098
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2009;16034003
+suco_concentrado;SUCO DE UVA CONCENTRADO;2009;23006457
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2009;674638
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2009;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2009;0
+derivados;DERIVADOS;2009;56787892
+derivados_espumante;ESPUMANTE;2009;0
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2009;1190500
+derivados_base_espumante;BASE ESPUMANTE;2009;335850
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2009;442150
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2009;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2009;0
+derivados_bebida_de_uva;BEBIDA DE UVA;2009;420
+derivados_polpa_de_uva;POLPA DE UVA;2009;1352417
+derivados_mosto_simples;MOSTO SIMPLES;2009;53418555
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2009;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2009;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2009;0
+derivados_mistelas;MISTELAS;2009;3500
+derivados_nectar_de_uva;NÉCTAR DE UVA;2009;0
+derivados_licorosos;LICOROSOS;2009;38000
+derivados_compostos;COMPOSTOS;2009;0
+derivados_jeropiga;JEROPIGA;2009;0
+derivados_filtrado;FILTRADO;2009;0
+derivados_frisante;FRISANTE;2009;0
+derivados_vinho_leve;VINHO LEVE;2009;0
+derivados_vinho_licoroso;VINHO LICOROSO;2009;0
+derivados_brandy;BRANDY;2009;0
+derivados_destilado;DESTILADO;2009;0
+derivados_bagaceira;BAGACEIRA;2009;6500
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2009;0
+derivados_vinagre;VINAGRE;2009;0
+derivados_borra_liquida;BORRA LÍQUIDA;2009;0
+derivados_borra_seca;BORRA SECA;2009;0
+derivados_vinho_composto;VINHO COMPOSTO;2009;0
+derivados_pisco;PISCO;2009;0
+derivados_vinho_organico;VINHO ORGÂNICO;2009;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2009;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2009;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2009;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2009;0
+derivados_outros_derivados;OUTROS DERIVADOS;2009;0
+vinho_de_mesa;VINHO DE MESA;2010;195267980
+vinho_mesa_tinto;TINTO;2010;157290088
+vinho_mesa_branco;BRANCO;2010;35408083
+vinho_mesa_rosado;ROSADO;2010;2569809
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2010;24805713
+vinho_viniferas_tinto;TINTO;2010;11401406
+vinho_viniferas_branco;BRANCO;2010;13013027
+vinho_viniferas_rosado;ROSADO;2010;391280
+suco;SUCO;2010;50125944
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2010;26887259
+suco_concentrado;SUCO DE UVA CONCENTRADO;2010;23238685
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2010;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2010;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2010;0
+derivados;DERIVADOS;2010;51210756
+derivados_espumante;ESPUMANTE;2010;10125
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2010;703393
+derivados_base_espumante;BASE ESPUMANTE;2010;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2010;1144508
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2010;92082
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2010;254000
+derivados_bebida_de_uva;BEBIDA DE UVA;2010;7900
+derivados_polpa_de_uva;POLPA DE UVA;2010;1951606
+derivados_mosto_simples;MOSTO SIMPLES;2010;45912040
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2010;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2010;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2010;0
+derivados_mistelas;MISTELAS;2010;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;2010;0
+derivados_licorosos;LICOROSOS;2010;0
+derivados_compostos;COMPOSTOS;2010;0
+derivados_jeropiga;JEROPIGA;2010;69000
+derivados_filtrado;FILTRADO;2010;0
+derivados_frisante;FRISANTE;2010;831000
+derivados_vinho_leve;VINHO LEVE;2010;0
+derivados_vinho_licoroso;VINHO LICOROSO;2010;15000
+derivados_brandy;BRANDY;2010;0
+derivados_destilado;DESTILADO;2010;0
+derivados_bagaceira;BAGACEIRA;2010;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2010;0
+derivados_vinagre;VINAGRE;2010;5817
+derivados_borra_liquida;BORRA LÍQUIDA;2010;64304
+derivados_borra_seca;BORRA SECA;2010;149981
+derivados_vinho_composto;VINHO COMPOSTO;2010;0
+derivados_pisco;PISCO;2010;0
+derivados_vinho_organico;VINHO ORGÂNICO;2010;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2010;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2010;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2010;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2010;0
+derivados_outros_derivados;OUTROS DERIVADOS;2010;0
+vinho_de_mesa;VINHO DE MESA;2011;257840749
+vinho_mesa_tinto;TINTO;2011;210113358
+vinho_mesa_branco;BRANCO;2011;46007504
+vinho_mesa_rosado;ROSADO;2011;1719887
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2011;47598471
+vinho_viniferas_tinto;TINTO;2011;24104740
+vinho_viniferas_branco;BRANCO;2011;22739426
+vinho_viniferas_rosado;ROSADO;2011;754305
+suco;SUCO;2011;69364324
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2011;39487800
+suco_concentrado;SUCO DE UVA CONCENTRADO;2011;29564324
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2011;312200
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2011;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2011;0
+derivados;DERIVADOS;2011;85748723
+derivados_espumante;ESPUMANTE;2011;26361
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2011;219100
+derivados_base_espumante;BASE ESPUMANTE;2011;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2011;2749540
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2011;74746
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2011;865858
+derivados_bebida_de_uva;BEBIDA DE UVA;2011;0
+derivados_polpa_de_uva;POLPA DE UVA;2011;2480120
+derivados_mosto_simples;MOSTO SIMPLES;2011;77285998
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2011;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2011;1037600
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2011;0
+derivados_mistelas;MISTELAS;2011;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;2011;0
+derivados_licorosos;LICOROSOS;2011;0
+derivados_compostos;COMPOSTOS;2011;0
+derivados_jeropiga;JEROPIGA;2011;0
+derivados_filtrado;FILTRADO;2011;0
+derivados_frisante;FRISANTE;2011;1003800
+derivados_vinho_leve;VINHO LEVE;2011;0
+derivados_vinho_licoroso;VINHO LICOROSO;2011;0
+derivados_brandy;BRANDY;2011;0
+derivados_destilado;DESTILADO;2011;0
+derivados_bagaceira;BAGACEIRA;2011;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2011;0
+derivados_vinagre;VINAGRE;2011;0
+derivados_borra_liquida;BORRA LÍQUIDA;2011;0
+derivados_borra_seca;BORRA SECA;2011;0
+derivados_vinho_composto;VINHO COMPOSTO;2011;0
+derivados_pisco;PISCO;2011;0
+derivados_vinho_organico;VINHO ORGÂNICO;2011;5600
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2011;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2011;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2011;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2011;0
+derivados_outros_derivados;OUTROS DERIVADOS;2011;0
+vinho_de_mesa;VINHO DE MESA;2012;212777037
+vinho_mesa_tinto;TINTO;2012;175875432
+vinho_mesa_branco;BRANCO;2012;34938249
+vinho_mesa_rosado;ROSADO;2012;1963356
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2012;45200730
+vinho_viniferas_tinto;TINTO;2012;24027589
+vinho_viniferas_branco;BRANCO;2012;20647238
+vinho_viniferas_rosado;ROSADO;2012;525903
+suco;SUCO;2012;70066732
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2012;31908829
+suco_concentrado;SUCO DE UVA CONCENTRADO;2012;37624855
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2012;533048
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2012;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2012;0
+derivados;DERIVADOS;2012;100757101
+derivados_espumante;ESPUMANTE;2012;17200
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2012;139775
+derivados_base_espumante;BASE ESPUMANTE;2012;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2012;2798908
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2012;369278
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2012;479625
+derivados_bebida_de_uva;BEBIDA DE UVA;2012;0
+derivados_polpa_de_uva;POLPA DE UVA;2012;2797665
+derivados_mosto_simples;MOSTO SIMPLES;2012;93341575
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2012;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2012;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2012;0
+derivados_mistelas;MISTELAS;2012;200
+derivados_nectar_de_uva;NÉCTAR DE UVA;2012;0
+derivados_licorosos;LICOROSOS;2012;26775
+derivados_compostos;COMPOSTOS;2012;7600
+derivados_jeropiga;JEROPIGA;2012;0
+derivados_filtrado;FILTRADO;2012;0
+derivados_frisante;FRISANTE;2012;778500
+derivados_vinho_leve;VINHO LEVE;2012;0
+derivados_vinho_licoroso;VINHO LICOROSO;2012;0
+derivados_brandy;BRANDY;2012;0
+derivados_destilado;DESTILADO;2012;0
+derivados_bagaceira;BAGACEIRA;2012;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2012;0
+derivados_vinagre;VINAGRE;2012;0
+derivados_borra_liquida;BORRA LÍQUIDA;2012;0
+derivados_borra_seca;BORRA SECA;2012;0
+derivados_vinho_composto;VINHO COMPOSTO;2012;0
+derivados_pisco;PISCO;2012;0
+derivados_vinho_organico;VINHO ORGÂNICO;2012;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2012;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2012;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2012;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2012;0
+derivados_outros_derivados;OUTROS DERIVADOS;2012;0
+vinho_de_mesa;VINHO DE MESA;2013;196904222
+vinho_mesa_tinto;TINTO;2013;163111797
+vinho_mesa_branco;BRANCO;2013;32066403
+vinho_mesa_rosado;ROSADO;2013;1726022
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2013;45782530
+vinho_viniferas_tinto;TINTO;2013;23156458
+vinho_viniferas_branco;BRANCO;2013;21906349
+vinho_viniferas_rosado;ROSADO;2013;719723
+suco;SUCO;2013;64879790
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2013;33673396
+suco_concentrado;SUCO DE UVA CONCENTRADO;2013;31206394
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2013;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2013;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2013;0
+derivados;DERIVADOS;2013;64072127
+derivados_espumante;ESPUMANTE;2013;30275
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2013;159781
+derivados_base_espumante;BASE ESPUMANTE;2013;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2013;1470700
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2013;359617
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2013;624728
+derivados_bebida_de_uva;BEBIDA DE UVA;2013;4260
+derivados_polpa_de_uva;POLPA DE UVA;2013;1742152
+derivados_mosto_simples;MOSTO SIMPLES;2013;58517506
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2013;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2013;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2013;0
+derivados_mistelas;MISTELAS;2013;2500
+derivados_nectar_de_uva;NÉCTAR DE UVA;2013;10000
+derivados_licorosos;LICOROSOS;2013;0
+derivados_compostos;COMPOSTOS;2013;0
+derivados_jeropiga;JEROPIGA;2013;0
+derivados_filtrado;FILTRADO;2013;0
+derivados_frisante;FRISANTE;2013;1009000
+derivados_vinho_leve;VINHO LEVE;2013;0
+derivados_vinho_licoroso;VINHO LICOROSO;2013;100
+derivados_brandy;BRANDY;2013;0
+derivados_destilado;DESTILADO;2013;0
+derivados_bagaceira;BAGACEIRA;2013;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2013;0
+derivados_vinagre;VINAGRE;2013;0
+derivados_borra_liquida;BORRA LÍQUIDA;2013;63111
+derivados_borra_seca;BORRA SECA;2013;78397
+derivados_vinho_composto;VINHO COMPOSTO;2013;0
+derivados_pisco;PISCO;2013;0
+derivados_vinho_organico;VINHO ORGÂNICO;2013;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2013;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2013;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2013;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2013;0
+derivados_outros_derivados;OUTROS DERIVADOS;2013;0
+vinho_de_mesa;VINHO DE MESA;2014;196173123
+vinho_mesa_tinto;TINTO;2014;157776363
+vinho_mesa_branco;BRANCO;2014;37438069
+vinho_mesa_rosado;ROSADO;2014;958691
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2014;38464314
+vinho_viniferas_tinto;TINTO;2014;17208996
+vinho_viniferas_branco;BRANCO;2014;20054804
+vinho_viniferas_rosado;ROSADO;2014;1200514
+suco;SUCO;2014;76723537
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2014;43331223
+suco_concentrado;SUCO DE UVA CONCENTRADO;2014;33392314
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2014;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2014;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2014;0
+derivados;DERIVADOS;2014;62907281
+derivados_espumante;ESPUMANTE;2014;2700
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2014;100000
+derivados_base_espumante;BASE ESPUMANTE;2014;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2014;1808044
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2014;234725
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2014;376968
+derivados_bebida_de_uva;BEBIDA DE UVA;2014;3860
+derivados_polpa_de_uva;POLPA DE UVA;2014;2484000
+derivados_mosto_simples;MOSTO SIMPLES;2014;57582195
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2014;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2014;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2014;0
+derivados_mistelas;MISTELAS;2014;1000
+derivados_nectar_de_uva;NÉCTAR DE UVA;2014;1140
+derivados_licorosos;LICOROSOS;2014;0
+derivados_compostos;COMPOSTOS;2014;0
+derivados_jeropiga;JEROPIGA;2014;0
+derivados_filtrado;FILTRADO;2014;0
+derivados_frisante;FRISANTE;2014;26069
+derivados_vinho_leve;VINHO LEVE;2014;0
+derivados_vinho_licoroso;VINHO LICOROSO;2014;36000
+derivados_brandy;BRANDY;2014;0
+derivados_destilado;DESTILADO;2014;0
+derivados_bagaceira;BAGACEIRA;2014;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2014;0
+derivados_vinagre;VINAGRE;2014;53776
+derivados_borra_liquida;BORRA LÍQUIDA;2014;50954
+derivados_borra_seca;BORRA SECA;2014;142850
+derivados_vinho_composto;VINHO COMPOSTO;2014;3000
+derivados_pisco;PISCO;2014;0
+derivados_vinho_organico;VINHO ORGÂNICO;2014;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2014;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2014;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2014;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2014;0
+derivados_outros_derivados;OUTROS DERIVADOS;2014;0
+vinho_de_mesa;VINHO DE MESA;2015;210308560
+vinho_mesa_tinto;TINTO;2015;169811472
+vinho_mesa_branco;BRANCO;2015;39557250
+vinho_mesa_rosado;ROSADO;2015;939838
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2015;37148982
+vinho_viniferas_tinto;TINTO;2015;16745896
+vinho_viniferas_branco;BRANCO;2015;19561966
+vinho_viniferas_rosado;ROSADO;2015;841120
+suco;SUCO;2015;87894468
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2015;52233155
+suco_concentrado;SUCO DE UVA CONCENTRADO;2015;35661313
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2015;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2015;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2015;0
+derivados;DERIVADOS;2015;107349704
+derivados_espumante;ESPUMANTE;2015;23750
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2015;110100
+derivados_base_espumante;BASE ESPUMANTE;2015;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2015;1607727
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2015;605001
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2015;1466259
+derivados_bebida_de_uva;BEBIDA DE UVA;2015;922
+derivados_polpa_de_uva;POLPA DE UVA;2015;2371140
+derivados_mosto_simples;MOSTO SIMPLES;2015;100911592
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2015;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2015;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2015;0
+derivados_mistelas;MISTELAS;2015;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;2015;1000
+derivados_licorosos;LICOROSOS;2015;0
+derivados_compostos;COMPOSTOS;2015;0
+derivados_jeropiga;JEROPIGA;2015;0
+derivados_filtrado;FILTRADO;2015;0
+derivados_frisante;FRISANTE;2015;0
+derivados_vinho_leve;VINHO LEVE;2015;0
+derivados_vinho_licoroso;VINHO LICOROSO;2015;56000
+derivados_brandy;BRANDY;2015;0
+derivados_destilado;DESTILADO;2015;0
+derivados_bagaceira;BAGACEIRA;2015;1350
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2015;0
+derivados_vinagre;VINAGRE;2015;25800
+derivados_borra_liquida;BORRA LÍQUIDA;2015;48833
+derivados_borra_seca;BORRA SECA;2015;120230
+derivados_vinho_composto;VINHO COMPOSTO;2015;0
+derivados_pisco;PISCO;2015;0
+derivados_vinho_organico;VINHO ORGÂNICO;2015;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2015;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2015;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2015;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2015;0
+derivados_outros_derivados;OUTROS DERIVADOS;2015;0
+vinho_de_mesa;VINHO DE MESA;2016;86319015
+vinho_mesa_tinto;TINTO;2016;75279191
+vinho_mesa_branco;BRANCO;2016;10727099
+vinho_mesa_rosado;ROSADO;2016;312725
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2016;18070626
+vinho_viniferas_tinto;TINTO;2016;8774847
+vinho_viniferas_branco;BRANCO;2016;8705066
+vinho_viniferas_rosado;ROSADO;2016;590713
+suco;SUCO;2016;42210389
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2016;31117869
+suco_concentrado;SUCO DE UVA CONCENTRADO;2016;11092520
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2016;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2016;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2016;0
+derivados;DERIVADOS;2016;53950314
+derivados_espumante;ESPUMANTE;2016;1500
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2016;100000
+derivados_base_espumante;BASE ESPUMANTE;2016;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2016;1325700
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2016;740395
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2016;250280
+derivados_bebida_de_uva;BEBIDA DE UVA;2016;3474
+derivados_polpa_de_uva;POLPA DE UVA;2016;1620430
+derivados_mosto_simples;MOSTO SIMPLES;2016;49770993
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2016;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2016;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2016;0
+derivados_mistelas;MISTELAS;2016;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;2016;0
+derivados_licorosos;LICOROSOS;2016;0
+derivados_compostos;COMPOSTOS;2016;0
+derivados_jeropiga;JEROPIGA;2016;0
+derivados_filtrado;FILTRADO;2016;0
+derivados_frisante;FRISANTE;2016;0
+derivados_vinho_leve;VINHO LEVE;2016;0
+derivados_vinho_licoroso;VINHO LICOROSO;2016;24200
+derivados_brandy;BRANDY;2016;0
+derivados_destilado;DESTILADO;2016;0
+derivados_bagaceira;BAGACEIRA;2016;1000
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2016;0
+derivados_vinagre;VINAGRE;2016;5000
+derivados_borra_liquida;BORRA LÍQUIDA;2016;24975
+derivados_borra_seca;BORRA SECA;2016;82367
+derivados_vinho_composto;VINHO COMPOSTO;2016;0
+derivados_pisco;PISCO;2016;0
+derivados_vinho_organico;VINHO ORGÂNICO;2016;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2016;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2016;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2016;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2016;0
+derivados_outros_derivados;OUTROS DERIVADOS;2016;0
+vinho_de_mesa;VINHO DE MESA;2017;255015187
+vinho_mesa_tinto;TINTO;2017;1365957
+vinho_mesa_branco;BRANCO;2017;217527985
+vinho_mesa_rosado;ROSADO;2017;36121245
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2017;44537870
+vinho_viniferas_tinto;TINTO;2017;21442212
+vinho_viniferas_branco;BRANCO;2017;21928400
+vinho_viniferas_rosado;ROSADO;2017;1167258
+suco;SUCO;2017;77161971
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2017;46865626
+suco_concentrado;SUCO DE UVA CONCENTRADO;2017;30059271
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2017;177774
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2017;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2017;59300
+derivados;DERIVADOS;2017;109116761
+derivados_espumante;ESPUMANTE;2017;11280
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2017;152375
+derivados_base_espumante;BASE ESPUMANTE;2017;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2017;1965629
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2017;1552403
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2017;893364
+derivados_bebida_de_uva;BEBIDA DE UVA;2017;0
+derivados_polpa_de_uva;POLPA DE UVA;2017;2507125
+derivados_mosto_simples;MOSTO SIMPLES;2017;101010116
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2017;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2017;772110
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2017;0
+derivados_mistelas;MISTELAS;2017;1500
+derivados_nectar_de_uva;NÉCTAR DE UVA;2017;3000
+derivados_licorosos;LICOROSOS;2017;110820
+derivados_compostos;COMPOSTOS;2017;0
+derivados_jeropiga;JEROPIGA;2017;0
+derivados_filtrado;FILTRADO;2017;0
+derivados_frisante;FRISANTE;2017;0
+derivados_vinho_leve;VINHO LEVE;2017;0
+derivados_vinho_licoroso;VINHO LICOROSO;2017;110820
+derivados_brandy;BRANDY;2017;0
+derivados_destilado;DESTILADO;2017;0
+derivados_bagaceira;BAGACEIRA;2017;900
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2017;0
+derivados_vinagre;VINAGRE;2017;25319
+derivados_borra_liquida;BORRA LÍQUIDA;2017;0
+derivados_borra_seca;BORRA SECA;2017;0
+derivados_vinho_composto;VINHO COMPOSTO;2017;0
+derivados_pisco;PISCO;2017;0
+derivados_vinho_organico;VINHO ORGÂNICO;2017;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2017;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2017;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2017;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2017;0
+derivados_outros_derivados;OUTROS DERIVADOS;2017;0
+vinho_de_mesa;VINHO DE MESA;2018;218375636
+vinho_mesa_tinto;TINTO;2018;188270142
+vinho_mesa_branco;BRANCO;2018;29229970
+vinho_mesa_rosado;ROSADO;2018;875524
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2018;38707220
+vinho_viniferas_tinto;TINTO;2018;19118254
+vinho_viniferas_branco;BRANCO;2018;18297257
+vinho_viniferas_rosado;ROSADO;2018;1291709
+suco;SUCO;2018;65467906
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2018;34367996
+suco_concentrado;SUCO DE UVA CONCENTRADO;2018;31099910
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2018;0
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2018;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2018;0
+derivados;DERIVADOS;2018;95202101
+derivados_espumante;ESPUMANTE;2018;68500
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2018;326200
+derivados_base_espumante;BASE ESPUMANTE;2018;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2018;1320650
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2018;228518
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2018;1746540
+derivados_bebida_de_uva;BEBIDA DE UVA;2018;0
+derivados_polpa_de_uva;POLPA DE UVA;2018;2112683
+derivados_mosto_simples;MOSTO SIMPLES;2018;88910980
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2018;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2018;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2018;0
+derivados_mistelas;MISTELAS;2018;2000
+derivados_nectar_de_uva;NÉCTAR DE UVA;2018;0
+derivados_licorosos;LICOROSOS;2018;0
+derivados_compostos;COMPOSTOS;2018;0
+derivados_jeropiga;JEROPIGA;2018;0
+derivados_filtrado;FILTRADO;2018;0
+derivados_frisante;FRISANTE;2018;0
+derivados_vinho_leve;VINHO LEVE;2018;8000
+derivados_vinho_licoroso;VINHO LICOROSO;2018;124303
+derivados_brandy;BRANDY;2018;0
+derivados_destilado;DESTILADO;2018;680
+derivados_bagaceira;BAGACEIRA;2018;2100
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2018;0
+derivados_vinagre;VINAGRE;2018;25367
+derivados_borra_liquida;BORRA LÍQUIDA;2018;255100
+derivados_borra_seca;BORRA SECA;2018;70480
+derivados_vinho_composto;VINHO COMPOSTO;2018;0
+derivados_pisco;PISCO;2018;0
+derivados_vinho_organico;VINHO ORGÂNICO;2018;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2018;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2018;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2018;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2018;0
+derivados_outros_derivados;OUTROS DERIVADOS;2018;0
+vinho_de_mesa;VINHO DE MESA;2019;144629737
+vinho_mesa_tinto;TINTO;2019;121045115
+vinho_mesa_branco;BRANCO;2019;22032828
+vinho_mesa_rosado;ROSADO;2019;1551794
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2019;37615422
+vinho_viniferas_tinto;TINTO;2019;17389377
+vinho_viniferas_branco;BRANCO;2019;18193055
+vinho_viniferas_rosado;ROSADO;2019;2032990
+suco;SUCO;2019;77805352
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2019;50239767
+suco_concentrado;SUCO DE UVA CONCENTRADO;2019;26861009
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2019;120320
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2019;0
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2019;584256
+derivados;DERIVADOS;2019;142888747
+derivados_espumante;ESPUMANTE;2019;52176
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2019;515800
+derivados_base_espumante;BASE ESPUMANTE;2019;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2019;1962443
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2019;274903
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2019;1188095
+derivados_bebida_de_uva;BEBIDA DE UVA;2019;0
+derivados_polpa_de_uva;POLPA DE UVA;2019;1480269
+derivados_mosto_simples;MOSTO SIMPLES;2019;135614344
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2019;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2019;645816
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2019;1000
+derivados_mistelas;MISTELAS;2019;3000
+derivados_nectar_de_uva;NÉCTAR DE UVA;2019;32519
+derivados_licorosos;LICOROSOS;2019;0
+derivados_compostos;COMPOSTOS;2019;0
+derivados_jeropiga;JEROPIGA;2019;0
+derivados_filtrado;FILTRADO;2019;0
+derivados_frisante;FRISANTE;2019;0
+derivados_vinho_leve;VINHO LEVE;2019;0
+derivados_vinho_licoroso;VINHO LICOROSO;2019;99485
+derivados_brandy;BRANDY;2019;0
+derivados_destilado;DESTILADO;2019;0
+derivados_bagaceira;BAGACEIRA;2019;10495
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2019;1507
+derivados_vinagre;VINAGRE;2019;76096
+derivados_borra_liquida;BORRA LÍQUIDA;2019;901431
+derivados_borra_seca;BORRA SECA;2019;25996
+derivados_vinho_composto;VINHO COMPOSTO;2019;0
+derivados_pisco;PISCO;2019;3372
+derivados_vinho_organico;VINHO ORGÂNICO;2019;0
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2019;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2019;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2019;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2019;0
+derivados_outros_derivados;OUTROS DERIVADOS;2019;0
+vinho_de_mesa;VINHO DE MESA;2020;124200414
+vinho_mesa_tinto;TINTO;2020;103916391
+vinho_mesa_branco;BRANCO;2020;19568734
+vinho_mesa_rosado;ROSADO;2020;715289
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2020;32516686
+vinho_viniferas_tinto;TINTO;2020;15451883
+vinho_viniferas_branco;BRANCO;2020;15487915
+vinho_viniferas_rosado;ROSADO;2020;1576888
+suco;SUCO;2020;69261287
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2020;40718523
+suco_concentrado;SUCO DE UVA CONCENTRADO;2020;27963865
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2020;107289
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2020;471610
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2020;0
+derivados;DERIVADOS;2020;92533804
+derivados_espumante;ESPUMANTE;2020;32399
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2020;689139
+derivados_base_espumante;BASE ESPUMANTE;2020;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2020;3006705
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2020;200777
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2020;2487939
+derivados_bebida_de_uva;BEBIDA DE UVA;2020;0
+derivados_polpa_de_uva;POLPA DE UVA;2020;1803472
+derivados_mosto_simples;MOSTO SIMPLES;2020;80355474
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2020;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2020;3078256
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2020;5000
+derivados_mistelas;MISTELAS;2020;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;2020;46000
+derivados_licorosos;LICOROSOS;2020;0
+derivados_compostos;COMPOSTOS;2020;0
+derivados_jeropiga;JEROPIGA;2020;2000
+derivados_filtrado;FILTRADO;2020;0
+derivados_frisante;FRISANTE;2020;0
+derivados_vinho_leve;VINHO LEVE;2020;0
+derivados_vinho_licoroso;VINHO LICOROSO;2020;48678
+derivados_brandy;BRANDY;2020;0
+derivados_destilado;DESTILADO;2020;0
+derivados_bagaceira;BAGACEIRA;2020;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2020;5800
+derivados_vinagre;VINAGRE;2020;10000
+derivados_borra_liquida;BORRA LÍQUIDA;2020;509378
+derivados_borra_seca;BORRA SECA;2020;167587
+derivados_vinho_composto;VINHO COMPOSTO;2020;0
+derivados_pisco;PISCO;2020;1000
+derivados_vinho_organico;VINHO ORGÂNICO;2020;18700
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2020;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2020;500
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2020;65000
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2020;0
+derivados_outros_derivados;OUTROS DERIVADOS;2020;0
+vinho_de_mesa;VINHO DE MESA;2021;173899995
+vinho_mesa_tinto;TINTO;2021;146075996
+vinho_mesa_branco;BRANCO;2021;26432799
+vinho_mesa_rosado;ROSADO;2021;1391200
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2021;43474998
+vinho_viniferas_tinto;TINTO;2021;20433249
+vinho_viniferas_branco;BRANCO;2021;20867999
+vinho_viniferas_rosado;ROSADO;2021;2173750
+suco;SUCO;2021;100932264
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2021;68038479
+suco_concentrado;SUCO DE UVA CONCENTRADO;2021;32131218
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2021;40450
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2021;722117
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2021;0
+derivados;DERIVADOS;2021;169031493
+derivados_espumante;ESPUMANTE;2021;70091
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2021;11950
+derivados_base_espumante;BASE ESPUMANTE;2021;5475049
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2021;5549471
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2021;0
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2021;0
+derivados_bebida_de_uva;BEBIDA DE UVA;2021;2000
+derivados_polpa_de_uva;POLPA DE UVA;2021;1180578
+derivados_mosto_simples;MOSTO SIMPLES;2021;153579926
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2021;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2021;618764
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2021;1532000
+derivados_mistelas;MISTELAS;2021;2500
+derivados_nectar_de_uva;NÉCTAR DE UVA;2021;18187
+derivados_licorosos;LICOROSOS;2021;0
+derivados_compostos;COMPOSTOS;2021;0
+derivados_jeropiga;JEROPIGA;2021;3540
+derivados_filtrado;FILTRADO;2021;0
+derivados_frisante;FRISANTE;2021;1390
+derivados_vinho_leve;VINHO LEVE;2021;0
+derivados_vinho_licoroso;VINHO LICOROSO;2021;30000
+derivados_brandy;BRANDY;2021;120
+derivados_destilado;DESTILADO;2021;0
+derivados_bagaceira;BAGACEIRA;2021;12060
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2021;0
+derivados_vinagre;VINAGRE;2021;7500
+derivados_borra_liquida;BORRA LÍQUIDA;2021;116450
+derivados_borra_seca;BORRA SECA;2021;16789
+derivados_vinho_composto;VINHO COMPOSTO;2021;160000
+derivados_pisco;PISCO;2021;0
+derivados_vinho_organico;VINHO ORGÂNICO;2021;93884
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2021;2412
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2021;3000
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2021;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2021;543510
+derivados_outros_derivados;OUTROS DERIVADOS;2021;322
+vinho_de_mesa;VINHO DE MESA;2022;195031611
+vinho_mesa_tinto;TINTO;2022;162844214
+vinho_mesa_branco;BRANCO;2022;30198430
+vinho_mesa_rosado;ROSADO;2022;1988968
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2022;47511796
+vinho_viniferas_tinto;TINTO;2022;24417918
+vinho_viniferas_branco;BRANCO;2022;20896613
+vinho_viniferas_rosado;ROSADO;2022;2197265
+suco;SUCO;2022;65809079
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2022;35248305
+suco_concentrado;SUCO DE UVA CONCENTRADO;2022;29892550
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2022;79130
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2022;589094
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2022;0
+derivados;DERIVADOS;2022;138501226
+derivados_espumante;ESPUMANTE;2022;70759
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2022;27200
+derivados_base_espumante;BASE ESPUMANTE;2022;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2022;6308043
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2022;1146717
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2022;4078766
+derivados_bebida_de_uva;BEBIDA DE UVA;2022;0
+derivados_polpa_de_uva;POLPA DE UVA;2022;387886
+derivados_mosto_simples;MOSTO SIMPLES;2022;126048241
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2022;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2022;0
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2022;0
+derivados_mistelas;MISTELAS;2022;0
+derivados_nectar_de_uva;NÉCTAR DE UVA;2022;0
+derivados_licorosos;LICOROSOS;2022;0
+derivados_compostos;COMPOSTOS;2022;0
+derivados_jeropiga;JEROPIGA;2022;5000
+derivados_filtrado;FILTRADO;2022;0
+derivados_frisante;FRISANTE;2022;0
+derivados_vinho_leve;VINHO LEVE;2022;0
+derivados_vinho_licoroso;VINHO LICOROSO;2022;67000
+derivados_brandy;BRANDY;2022;0
+derivados_destilado;DESTILADO;2022;0
+derivados_bagaceira;BAGACEIRA;2022;4998
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2022;0
+derivados_vinagre;VINAGRE;2022;16200
+derivados_borra_liquida;BORRA LÍQUIDA;2022;0
+derivados_borra_seca;BORRA SECA;2022;0
+derivados_vinho_composto;VINHO COMPOSTO;2022;0
+derivados_pisco;PISCO;2022;0
+derivados_vinho_organico;VINHO ORGÂNICO;2022;88890
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2022;0
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2022;4300
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2022;0
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2022;0
+derivados_outros_derivados;OUTROS DERIVADOS;2022;247228
+vinho_de_mesa;VINHO DE MESA;2023;169762429
+vinho_mesa_tinto;TINTO;2023;139320884
+vinho_mesa_branco;BRANCO;2023;27910299
+vinho_mesa_rosado;ROSADO;2023;2531246
+vinho_fino_de_mesa_vinifera;VINHO FINO DE MESA (VINIFERA);2023;46268556
+vinho_viniferas_tinto;TINTO;2023;23615783
+vinho_viniferas_branco;BRANCO;2023;20693437
+vinho_viniferas_rosado;ROSADO;2023;1959336
+suco;SUCO;2023;67045238
+suco_de_uva_simples;SUCO DE UVA INTEGRAL;2023;38122173
+suco_concentrado;SUCO DE UVA CONCENTRADO;2023;28216760
+suco_de_uva_adocado;SUCO DE UVA ADOÇADO;2023;94587
+suco_de_uva_organico;SUCO DE UVA ORGÂNICO;2023;611718
+suco_de_uva_reconstituido;SUCO DE UVA RECONSTITUÍDO;2023;0
+derivados;DERIVADOS;2023;174716647
+derivados_espumante;ESPUMANTE;2023;65525
+derivados_espumante_moscatel;ESPUMANTE MOSCATEL;2023;14744
+derivados_base_espumante;BASE ESPUMANTE;2023;0
+derivados_base_espumante_moscatel;BASE ESPUMANTE MOSCATEL;2023;6734590
+derivados_base_champenoise_champanha;BASE CHAMPENOISE CHAMPANHA;2023;1552243
+derivados_base_charmat_champanha;BASE CHARMAT CHAMPANHA;2023;5418118
+derivados_bebida_de_uva;BEBIDA DE UVA;2023;1627
+derivados_polpa_de_uva;POLPA DE UVA;2023;1388251
+derivados_mosto_simples;MOSTO SIMPLES;2023;157848983
+derivados_mosto_concentrado;MOSTO CONCENTRADO;2023;0
+derivados_mosto_de_uva_com_bagaco;MOSTO DE UVA COM BAGAÇO;2023;7784
+derivados_mosto_dessulfitado;MOSTO DESSULFITADO;2023;0
+derivados_mistelas;MISTELAS;2023;600
+derivados_nectar_de_uva;NÉCTAR DE UVA;2023;70976
+derivados_licorosos;LICOROSOS;2023;0
+derivados_compostos;COMPOSTOS;2023;0
+derivados_jeropiga;JEROPIGA;2023;4500
+derivados_filtrado;FILTRADO;2023;0
+derivados_frisante;FRISANTE;2023;0
+derivados_vinho_leve;VINHO LEVE;2023;0
+derivados_vinho_licoroso;VINHO LICOROSO;2023;73600
+derivados_brandy;BRANDY;2023;450
+derivados_destilado;DESTILADO;2023;0
+derivados_bagaceira;BAGACEIRA;2023;0
+derivados_licor_de_bagaceira;LICOR DE BAGACEIRA;2023;0
+derivados_vinagre;VINAGRE;2023;9000
+derivados_borra_liquida;BORRA LÍQUIDA;2023;758140
+derivados_borra_seca;BORRA SECA;2023;17200
+derivados_vinho_composto;VINHO COMPOSTO;2023;0
+derivados_pisco;PISCO;2023;0
+derivados_vinho_organico;VINHO ORGÂNICO;2023;94150
+derivados_espumante_organico;ESPUMANTE ORGÂNICO;2023;1365
+derivados_destilado_alcoolico_simples_de_bagaceira_;DESTILADO ALCOÓLICO SIMPLES DE BAGACEIRA ;2023;0
+derivados_vinho_acidificado_;VINHO ACIDIFICADO ;2023;2500
+derivados_mosto_parcialmente_fermentado_;MOSTO PARCIALMENTE FERMENTADO ;2023;0
+derivados_outros_derivados;OUTROS DERIVADOS;2023;652301
